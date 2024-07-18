@@ -419,6 +419,10 @@ img {
   .portfolio-section {
     gap: 0px;
   }
+
+  .portfolio-section .portfolio-section-variants-left-col {
+    padding-right: 50px;
+  }
   .portfolio-section-variants-left-col {
     justify-content: center;
     align-items: center;
