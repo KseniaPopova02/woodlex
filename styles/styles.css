@@ -286,6 +286,7 @@ input::placeholder {
   height: 100%;
   background: rgba(31, 16, 1, 0.4);
   backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
   z-index: 1000;
   transform: translateY(-100%);
   transition: transform 0.5s ease-in-out;
