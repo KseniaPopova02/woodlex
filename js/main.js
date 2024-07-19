@@ -3,16 +3,18 @@ document.addEventListener("DOMContentLoaded", (event) => {
   const fullScreenMenu = document.getElementById("full-screen-menu");
   const closeMenu = document.getElementById("close-menu");
 
-  burgerMenu.addEventListener("click", () => {
+  const toggleMenu = () => {
     burgerMenu.classList.toggle("open");
     fullScreenMenu.classList.toggle("open");
     document.body.classList.toggle("no-scroll");
-  });
+  };
+
+  burgerMenu.addEventListener("click", toggleMenu);
 
   closeMenu.addEventListener("click", () => {
-    burgerMenu.classList.remove("open");
-    fullScreenMenu.classList.remove("open");
-    document.body.classList.remove("no-scroll");
+    if (burgerMenu.classList.contains("open")) {
+      toggleMenu();
+    }
   });
 });
 
@@ -213,7 +215,7 @@ document
     })
       .then((response) => {
         if (response.ok) {
-          status.innerHTML = "Сообщение успешно отправлено!";
+          status.innerHTML = "Повідомлення успішно надіслано!";
           form.reset();
         } else {
           response.json().then((data) => {
