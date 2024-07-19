@@ -53,31 +53,31 @@
       </div>
     </div>
     <div id="full-screen-menu" class="full-screen-menu">
+      <div class="full-screen-menu-close" id="close-menu">
+        <span></span>
+        <span></span>
+      </div>
       <div class="full-screen-menu-left-wrapper">
         <div class="main" data-lang="main">ГОЛОВНА</div>
+        <div class="projects main" data-lang="projects">ПРОЄКТИ</div>
         <div class="full-screen-menu-left">
-          <div class="projects" data-lang="projects">ПРОЄКТИ</div>
-
-          <div class="portfolio-section-title variants-text">
+          <div class="portfolio-section-title variants-text menu-title-h2">
             <h2 data-lang="terasi">ТЕРАСИ</h2>
             <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
           </div>
           <div class="portfolio-section-variants-left-col">
             <div class="variants-text">
               <div data-lang="termososna">Термососна</div>
-              <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
             </div>
             <div class="variants-text">
               <div data-lang="termoyasen">Термоясен</div>
-              <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
             </div>
             <div class="variants-text">
               <div data-lang="ekzotika">Екзотика</div>
-              <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
             </div>
           </div>
 
-          <div class="portfolio-section-title variants-text">
+          <div class="portfolio-section-title variants-text menu-title-h2">
             <h2 data-lang="fasadi">ФАСАДИ</h2>
             <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
           </div>
@@ -85,18 +85,15 @@
           <div class="portfolio-section-variants-left-col">
             <div class="variants-text">
               <div data-lang="termososna">Термососна</div>
-              <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
             </div>
             <div class="variants-text">
               <div data-lang="termoyasen">Термоясен</div>
-              <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
             </div>
             <div class="variants-text">
               <div data-lang="ekzotika">Екзотика</div>
-              <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
             </div>
           </div>
-          <div class="portfolio-section-title variants-text">
+          <div class="portfolio-section-title variants-text menu-title-h2">
             <h2 data-lang="pidshivka">ПІДШИВКА</h2>
             <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
           </div>
@@ -104,18 +101,15 @@
           <div class="portfolio-section-variants-left-col">
             <div class="variants-text">
               <div data-lang="termososna">Термососна</div>
-              <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
             </div>
             <div class="variants-text">
               <div data-lang="termoyasen">Термоясен</div>
-              <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
             </div>
             <div class="variants-text">
               <div data-lang="ekzotika">Екзотика</div>
-              <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
             </div>
           </div>
-          <div class="portfolio-section-title variants-text">
+          <div class="portfolio-section-title variants-text menu-title-h2">
             <h2 data-lang="interyeri">ІНТЕР’ЄРИ</h2>
             <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
           </div>
@@ -123,18 +117,15 @@
           <div class="portfolio-section-variants-left-col">
             <div class="variants-text">
               <div data-lang="termososna">Термососна</div>
-              <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
             </div>
             <div class="variants-text">
               <div data-lang="termoyasen">Термоясен</div>
-              <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
             </div>
             <div class="variants-text">
               <div data-lang="ekzotika">Екзотика</div>
-              <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
             </div>
           </div>
-          <div class="portfolio-section-title variants-text">
+          <div class="portfolio-section-title variants-text menu-title-h2">
             <h2 data-lang="eksklyuzivniVirobi">ЕКСКЛЮЗИВНІ ВИРОБИ</h2>
             <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
           </div>
@@ -142,15 +133,12 @@
           <div class="portfolio-section-variants-left-col">
             <div class="variants-text">
               <div data-lang="termososna">Термососна</div>
-              <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
             </div>
             <div class="variants-text">
               <div data-lang="termoyasen">Термоясен</div>
-              <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
             </div>
             <div class="variants-text">
               <div data-lang="ekzotika">Екзотика</div>
-              <div><img src="assets/images/white_arrow.svg" alt="arrow" /></div>
             </div>
           </div>
         </div>
@@ -320,7 +308,7 @@
 
           <div class="contact-info-wrapper">
             <a href="mailto:Woodlex.group@gmail.com" class="contact-info">
-              <img src="assets/images/mail-icon.png" alt="mail-icon" />
+              <img src="assets/images/mail-icon.svg" alt="mail-icon" />
               <div>Woodlex.group@gmail.com</div>
             </a>
             <a href="tel:+380503806309" class="contact-info">
@@ -342,9 +330,21 @@
           <div class="footer-logo-mob">
             <img src="assets/images/woodlex-group.svg" alt="woodlex group" />
           </div>
-          <input placeholder="Ім’я" type="text" />
-          <input placeholder="Телефон" type="tel" />
-          <input placeholder="E-mail" type="email" />
+          <input
+            data-placeholder="namePlaceholder"
+            placeholder="Ім’я"
+            type="text"
+          />
+          <input
+            data-placeholder="phonePlaceholder"
+            placeholder="Телефон"
+            type="tel"
+          />
+          <input
+            data-placeholder="emailPlaceholder"
+            placeholder="E-mail"
+            type="email"
+          />
           <button
             class="button btn-black submit"
             type="submit"

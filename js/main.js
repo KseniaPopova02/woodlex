@@ -108,7 +108,7 @@ const translations = {
   EN: {
     headerText: "INTERIOR AND EXTERIOR DESIGN STUDIO",
     orderButton: "Order",
-    submitButton: "SUBSCRIBE FOR CONSULTATION",
+    submitButton: "BOOK A CONSULTATION",
     main: "Home",
     projects: "Projects",
     terasi: "Terraces",
@@ -120,6 +120,9 @@ const translations = {
     interyeri: "Interiors",
     portfolio: "Portfolio",
     eksklyuzivniVirobi: "Exclusive Products",
+    namePlaceholder: "Name",
+    phonePlaceholder: "Phone",
+    emailPlaceholder: "E-mail",
   },
   UA: {
     headerText: "СТУДІЯ ДИЗАЙНУ ІНТЕР'ЄРУ ТА ЕКСТЕР'ЄРУ",
@@ -136,11 +139,15 @@ const translations = {
     interyeri: "ІНТЕР’ЄРИ",
     portfolio: "Портфоліо",
     eksklyuzivniVirobi: "ЕКСКЛЮЗИВНІ ВИРОБИ",
+    namePlaceholder: "Ім’я",
+    phonePlaceholder: "Телефон",
+    emailPlaceholder: "E-mail",
   },
 };
 
 function changeLanguage(lang) {
   if (!translations[lang]) {
+    console.error(`Translation for language ${lang} not found.`);
     return;
   }
 
@@ -153,4 +160,38 @@ function changeLanguage(lang) {
 
     element.innerText = translations[lang][key];
   });
+
+  document.querySelectorAll("[data-placeholder]").forEach((element) => {
+    const key = element.getAttribute("data-placeholder");
+
+    if (!translations[lang][key]) {
+      return;
+    }
+
+    element.setAttribute("placeholder", translations[lang][key]);
+  });
 }
+
+document.addEventListener("DOMContentLoaded", (event) => {
+  const sections = document.querySelectorAll(
+    ".full-screen-menu-left .portfolio-section-title"
+  );
+
+  sections.forEach((section) => {
+    section.addEventListener("click", () => {
+      const content = section.nextElementSibling;
+      if (content.classList.contains("open")) {
+        content.classList.remove("open");
+      } else {
+        document
+          .querySelectorAll(
+            ".full-screen-menu-left .portfolio-section-variants-left-col.open"
+          )
+          .forEach((openSection) => {
+            openSection.classList.remove("open");
+          });
+        content.classList.add("open");
+      }
+    });
+  });
+});
