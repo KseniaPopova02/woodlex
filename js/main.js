@@ -72,15 +72,15 @@ document.addEventListener("DOMContentLoaded", (event) => {
 document
   .getElementById("language-selector")
   .addEventListener("click", function () {
-    var dropdown = this.querySelector(".dropdown");
+    let dropdown = this.querySelector(".dropdown");
     dropdown.style.display =
       dropdown.style.display === "block" ? "none" : "block";
   });
 
 document.querySelectorAll(".dropdown div").forEach(function (element) {
   element.addEventListener("click", function () {
-    var selectedLang = this.getAttribute("data-lang");
-    var currentLang = document
+    let selectedLang = this.getAttribute("data-lang");
+    let currentLang = document
       .getElementById("language-selector")
       .childNodes[0].nodeValue.trim();
     document.getElementById("language-selector").childNodes[0].nodeValue =
@@ -88,13 +88,14 @@ document.querySelectorAll(".dropdown div").forEach(function (element) {
     this.setAttribute("data-lang", currentLang);
     this.innerText = currentLang;
     this.parentElement.style.display = "none";
+
+    changeLanguage(selectedLang);
   });
 });
 
-// Close the dropdown if the user clicks outside of it
 window.onclick = function (event) {
   if (!event.target.matches(".button-language")) {
-    var dropdowns = document.querySelectorAll(".dropdown");
+    let dropdowns = document.querySelectorAll(".dropdown");
     dropdowns.forEach(function (dropdown) {
       if (dropdown.style.display === "block") {
         dropdown.style.display = "none";
@@ -102,3 +103,54 @@ window.onclick = function (event) {
     });
   }
 };
+
+const translations = {
+  EN: {
+    headerText: "INTERIOR AND EXTERIOR DESIGN STUDIO",
+    orderButton: "Order",
+    submitButton: "SUBSCRIBE FOR CONSULTATION",
+    main: "Home",
+    projects: "Projects",
+    terasi: "Terraces",
+    termososna: "Thermo Pine",
+    termoyasen: "Thermo Ash",
+    ekzotika: "Exotic",
+    fasadi: "Facades",
+    pidshivka: "Soffits",
+    interyeri: "Interiors",
+    portfolio: "Portfolio",
+    eksklyuzivniVirobi: "Exclusive Products",
+  },
+  UA: {
+    headerText: "СТУДІЯ ДИЗАЙНУ ІНТЕР'ЄРУ ТА ЕКСТЕР'ЄРУ",
+    orderButton: "Замовити",
+    submitButton: "ЗАПИСАТИСЬ НА КОНСУЛЬТАЦІЮ",
+    main: "ГОЛОВНА",
+    projects: "ПРОЄКТИ",
+    terasi: "ТЕРАСИ",
+    termososna: "Термососна",
+    termoyasen: "Термоясен",
+    ekzotika: "Екзотика",
+    fasadi: "ФАСАДИ",
+    pidshivka: "ПІДШИВКА",
+    interyeri: "ІНТЕР’ЄРИ",
+    portfolio: "Портфоліо",
+    eksklyuzivniVirobi: "ЕКСКЛЮЗИВНІ ВИРОБИ",
+  },
+};
+
+function changeLanguage(lang) {
+  if (!translations[lang]) {
+    return;
+  }
+
+  document.querySelectorAll("[data-lang]").forEach((element) => {
+    const key = element.getAttribute("data-lang");
+
+    if (!translations[lang][key]) {
+      return;
+    }
+
+    element.innerText = translations[lang][key];
+  });
+}
