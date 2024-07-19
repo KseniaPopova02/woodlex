@@ -8,12 +8,19 @@
     <link rel="stylesheet" href="styles/styles.css" />
   </head>
   <body>
-    <div class="main-section">
+    <div class="main-section-video">
+      <div class="bg-video-container">
+        <video class="bg-video" autoplay muted loop>
+          <source src="assets/images/bg-video.MOV" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
       <header>
         <div class="header">
-          <div class="logo">
+          <a href="index.html" class="logo">
             <img src="assets/images/woodlex-logo.svg" alt="logo" />
-          </div>
+          </a>
           <div class="text-in-header" data-lang="headerText">
             СТУДІЯ ДИЗАЙНУ ІНТЕР'ЄРУ ТА ЕКСТЕР'ЄРУ
           </div>
@@ -58,8 +65,10 @@
         <span></span>
       </div>
       <div class="full-screen-menu-left-wrapper">
-        <div class="main" data-lang="main">ГОЛОВНА</div>
-        <div class="projects main" data-lang="projects">ПРОЄКТИ</div>
+        <a href="index.html" class="main" data-lang="main">ГОЛОВНА</a>
+        <a href="portfolio.html" class="projects main" data-lang="projects"
+          >ПРОЄКТИ</a
+        >
         <div class="full-screen-menu-left">
           <div class="portfolio-section-title variants-text menu-title-h2">
             <h2 data-lang="terasi">ТЕРАСИ</h2>
@@ -166,139 +175,235 @@
       </div>
     </div>
 
-    <section class="portfolio-section portfolio-section-no-margin fade-in">
+    <section class="about-us">
+      <div class="container">
+        <div class="about-us-title-wrapper">
+          <h2 class="about-us-title fade-in">
+            Наш керівний принцип – «функціоналізм і простір».
+          </h2>
+          <div data-lang="proNas" class="about-us-subtitle">Про нас</div>
+        </div>
+        <div class="about-us-main-text">
+          <p class="fade-in" data-lang="proNas1">
+            Ми твердо переконані, що в інтер'єрі на першому місці повинні стояти
+            ергономіка, велика кількість світла і легкість - нічого зайвого
+          </p>
+          <p class="fade-in" data-lang="proNas2">
+            Woodlex Groop почала свою діяльність у 2011 році. За цей ми
+            реалізували більше 200 проектів. На сьогоднішній день виконуємо
+            повний спектр послуг від архітектурного проекту до комплексного
+            монтажу. Завдяки великому досвіду, десяткам помилок и сотням
+            виконаних об'єктів, ми можемо запропонувати правильні рішення навіть
+            у найсміливіших архітектурних задумах. І підтвердженням цьому є
+            величезні гарантійні зобов'язання на наші вироби. 
+          </p>
+          <p class="fade-in" data-lang="proNas3">
+            Використовуємо тільки натуральні матеріали. Розуміємо, що ходити
+            босоніж по власній терасі приємніше, коли ви наступаєте босоніж на
+            природний настил. Температура дошки, аромат, зовнішня естетика - всі
+            ці елементи створюють враження та настрій. І ми за це відповідаємо. 
+          </p>
+        </div>
+      </div>
+      <img
+        src="assets/images/about-us-img.png"
+        class="about-us-img"
+        alt="woodlex house picture"
+      />
+    </section>
+
+    <section class="our-projects-section fade-in">
       <div class="portfolio-section-title-wrapper">
-        <h2 class="portfolio-section-title" data-lang="terasi">ТЕРАСИ</h2>
+        <h2 class="portfolio-section-title" data-lang="terasi">НАШІ ПРОЄКТИ</h2>
         <div class="portfolio" data-lang="portfolio">Портфоліо</div>
       </div>
+      <div class="container">
+        <div class="our-projects">
+          <div class="our-projects-left-col">
+            <div class="full-screen-menu-left">
+              <div class="portfolio-section-title variants-text menu-title-h2">
+                <h2 data-lang="terasi">ТЕРАСИ</h2>
+                <div>
+                  <img src="assets/images/arrow.svg" alt="arrow" />
+                </div>
+              </div>
+              <div class="portfolio-section-variants-left-col">
+                <div class="variants-text">
+                  <div data-lang="termososna">Термососна</div>
+                </div>
+                <div class="variants-text">
+                  <div data-lang="termoyasen">Термоясен</div>
+                </div>
+                <div class="variants-text">
+                  <div data-lang="ekzotika">Екзотика</div>
+                </div>
+              </div>
 
-      <div class="portfolio-section-variants">
-        <div class="portfolio-section-variants-left-col">
-          <div class="variants-text fade-in">
-            <div data-lang="termososna">Термососна</div>
-            <div><img src="assets/images/arrow.svg" alt="arrow" /></div>
+              <div class="portfolio-section-title variants-text menu-title-h2">
+                <h2 data-lang="fasadi">ФАСАДИ</h2>
+                <div>
+                  <img src="assets/images/arrow.svg" alt="arrow" />
+                </div>
+              </div>
+
+              <div class="portfolio-section-variants-left-col">
+                <div class="variants-text">
+                  <div data-lang="termososna">Термососна</div>
+                </div>
+                <div class="variants-text">
+                  <div data-lang="termoyasen">Термоясен</div>
+                </div>
+                <div class="variants-text">
+                  <div data-lang="ekzotika">Екзотика</div>
+                </div>
+              </div>
+              <div class="portfolio-section-title variants-text menu-title-h2">
+                <h2 data-lang="pidshivka">ПІДШИВКА</h2>
+                <div>
+                  <img src="assets/images/arrow.svg" alt="arrow" />
+                </div>
+              </div>
+
+              <div class="portfolio-section-variants-left-col">
+                <div class="variants-text">
+                  <div data-lang="termososna">Термососна</div>
+                </div>
+                <div class="variants-text">
+                  <div data-lang="termoyasen">Термоясен</div>
+                </div>
+                <div class="variants-text">
+                  <div data-lang="ekzotika">Екзотика</div>
+                </div>
+              </div>
+              <div class="portfolio-section-title variants-text menu-title-h2">
+                <h2 data-lang="interyeri">ІНТЕР’ЄРИ</h2>
+                <div>
+                  <img src="assets/images/arrow.svg" alt="arrow" />
+                </div>
+              </div>
+
+              <div class="portfolio-section-variants-left-col">
+                <div class="variants-text">
+                  <div data-lang="termososna">Термососна</div>
+                </div>
+                <div class="variants-text">
+                  <div data-lang="termoyasen">Термоясен</div>
+                </div>
+                <div class="variants-text">
+                  <div data-lang="ekzotika">Екзотика</div>
+                </div>
+              </div>
+              <div class="portfolio-section-title variants-text menu-title-h2">
+                <h2 data-lang="eksklyuzivniVirobi">ЕКСКЛЮЗИВНІ ВИРОБИ</h2>
+                <div>
+                  <img src="assets/images/arrow.svg" alt="arrow" />
+                </div>
+              </div>
+
+              <div class="portfolio-section-variants-left-col">
+                <div class="variants-text">
+                  <div data-lang="termososna">Термососна</div>
+                </div>
+                <div class="variants-text">
+                  <div data-lang="termoyasen">Термоясен</div>
+                </div>
+                <div class="variants-text">
+                  <div data-lang="ekzotika">Екзотика</div>
+                </div>
+              </div>
+            </div>
           </div>
-          <div class="variants-text fade-in">
-            <div data-lang="termoyasen">Термоясен</div>
-            <div><img src="assets/images/arrow.svg" alt="arrow" /></div>
+
+          <div class="our-projects-right-col">
+            <img
+              src="assets/images/our-projects-img.png"
+              alt="our projects images"
+            />
           </div>
-          <div class="variants-text fade-in">
-            <div data-lang="ekzotika">Екзотика</div>
-            <div><img src="assets/images/arrow.svg" alt="arrow" /></div>
-          </div>
-        </div>
-        <div class="portfolio-section-variants-right-col">
-          <img src="assets/images/portfolio-1.png" alt="portfolio image" />
         </div>
       </div>
     </section>
-    <section class="portfolio-section fade-in">
-      <div class="portfolio-section-title-wrapper">
-        <h2 class="portfolio-section-title" data-lang="fasadi">ФАСАДИ</h2>
-        <div class="portfolio" data-lang="portfolio">Портфоліо</div>
+    <div class="main-section-video">
+      <div class="bg-video-container our-process-video-container">
+        <video class="bg-video" autoplay="" muted="" loop="">
+          <source src="assets/images/our-process-video.MOV" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+
+        <div class="our-process">
+          <div class="our-process-title" data-lang="proces">ПРОЦЕС</div>
+          <div class="our-process-title-subtitle" data-lang="kakMiRobimo">
+            ОСЬ, ЯК МИ ЦЕ РОБИМО
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section class="our-partners">
+      <div class="container">
+        <div class="our-partners-wrapper">
+          <h2 class="our-partners-title" data-lang="NashiPartneri">
+            НАШІ ПАРТНЕРИ
+          </h2>
+          <div class="our-partners-subtitle" data-lang="ZKimPrazuemo">
+            З КИМ МИ ПРАЦЮЕМО
+          </div>
+        </div>
+
+        <div class="our-partners-images">
+          <div class="our-partners-item">
+            <img src="assets/images/our-partners-1.png" alt="Image 1" />
+          </div>
+          <div class="our-partners-item">
+            <img src="assets/images/our-partners-2.png" alt="Image 2" />
+          </div>
+          <div class="our-partners-item">
+            <img src="assets/images/our-partners-nikus.png" alt="Image 3" />
+          </div>
+          <div class="our-partners-item">
+            <img src="assets/images/our-partners-3.png" alt="Image 4" />
+          </div>
+          <div class="our-partners-item">
+            <img src="assets/images/our-partners-4.png" alt="Image 5" />
+          </div>
+          <div class="our-partners-item">
+            <img src="assets/images/our-partners-5.png" alt="Image 6" />
+          </div>
+          <div class="our-partners-item">
+            <img src="assets/images/our-partners-6.png" alt="Image 7" />
+          </div>
+          <div class="our-partners-item">
+            <img src="assets/images/our-partners-7.png" alt="Image 8" />
+          </div>
+          <div class="our-partners-item">
+            <img src="assets/images/our-partners-8.png" alt="Image 9" />
+          </div>
+          <div class="our-partners-item">
+            <img src="assets/images/our-partners-9.png" alt="Image 10" />
+          </div>
+          <div class="our-partners-item">
+            <img src="assets/images/our-partners-10.png" alt="Image 11" />
+          </div>
+          <div class="our-partners-item">
+            <img src="assets/images/our-partners-11.png" alt="Image 12" />
+          </div>
+          <div class="our-partners-item">
+            <img src="assets/images/our-partners-12.png" alt="Image 13" />
+          </div>
+          <div class="our-partners-item">
+            <img src="assets/images/our-partners-13.png" alt="Image 14" />
+          </div>
+          <div class="our-partners-item">
+            <img src="assets/images/our-partners-14.png" alt="Image 15" />
+          </div>
+          <div class="our-partners-item">
+            <img src="assets/images/our-partners-15.png" alt="Image 16" />
+          </div>
+        </div>
       </div>
 
-      <div class="portfolio-section-variants">
-        <div class="portfolio-section-variants-left-col">
-          <div class="variants-text fade-in">
-            <div data-lang="termososna">Термососна</div>
-            <div><img src="assets/images/arrow.svg" alt="arrow" /></div>
-          </div>
-          <div class="variants-text fade-in">
-            <div data-lang="termoyasen">Термоясен</div>
-            <div><img src="assets/images/arrow.svg" alt="arrow" /></div>
-          </div>
-          <div class="variants-text fade-in">
-            <div data-lang="ekzotika">Екзотика</div>
-            <div><img src="assets/images/arrow.svg" alt="arrow" /></div>
-          </div>
-        </div>
-        <div class="portfolio-section-variants-right-col">
-          <img src="assets/images/portfolio-2.png" alt="portfolio image" />
-        </div>
-      </div>
+      <script src="js/main.js"></script>
     </section>
-    <section class="portfolio-section fade-in">
-      <div class="portfolio-section-title-wrapper">
-        <h2 class="portfolio-section-title" data-lang="pidshivka">ПІДШИВКА</h2>
-        <div class="portfolio" data-lang="portfolio">Портфоліо</div>
-      </div>
-
-      <div class="portfolio-section-variants">
-        <div class="portfolio-section-variants-left-col">
-          <div class="variants-text fade-in">
-            <div data-lang="termososna">Термососна</div>
-            <div><img src="assets/images/arrow.svg" alt="arrow" /></div>
-          </div>
-          <div class="variants-text fade-in">
-            <div data-lang="termoyasen">Термоясен</div>
-            <div><img src="assets/images/arrow.svg" alt="arrow" /></div>
-          </div>
-          <div class="variants-text fade-in">
-            <div data-lang="ekzotika">Екзотика</div>
-            <div><img src="assets/images/arrow.svg" alt="arrow" /></div>
-          </div>
-        </div>
-        <div class="portfolio-section-variants-right-col">
-          <img src="assets/images/portfolio-3.png" alt="portfolio image" />
-        </div>
-      </div>
-    </section>
-    <section class="portfolio-section fade-in">
-      <div class="portfolio-section-title-wrapper">
-        <h2 class="portfolio-section-title" data-lang="interyeri">ІНТЕР’ЄР</h2>
-        <div class="portfolio" data-lang="portfolio">Портфоліо</div>
-      </div>
-
-      <div class="portfolio-section-variants">
-        <div class="portfolio-section-variants-left-col">
-          <div class="variants-text fade-in">
-            <div data-lang="termososna">Термососна</div>
-            <div><img src="assets/images/arrow.svg" alt="arrow" /></div>
-          </div>
-          <div class="variants-text fade-in">
-            <div data-lang="termoyasen">Термоясен</div>
-            <div><img src="assets/images/arrow.svg" alt="arrow" /></div>
-          </div>
-          <div class="variants-text fade-in">
-            <div data-lang="ekzotika">Екзотика</div>
-            <div><img src="assets/images/arrow.svg" alt="arrow" /></div>
-          </div>
-        </div>
-        <div class="portfolio-section-variants-right-col">
-          <img src="assets/images/portfolio-4.png" alt="portfolio image" />
-        </div>
-      </div>
-    </section>
-    <section class="portfolio-section fade-in">
-      <div class="portfolio-section-title-wrapper">
-        <h2 class="portfolio-section-title" data-lang="eksklyuzivniVirobi">
-          ЕКСКЛЮЗИВНІ ВИРОБИ
-        </h2>
-        <div class="portfolio" data-lang="portfolio">Портфоліо</div>
-      </div>
-
-      <div class="portfolio-section-variants">
-        <div class="portfolio-section-variants-left-col">
-          <div class="variants-text fade-in">
-            <div data-lang="termososna">Термососна</div>
-            <div><img src="assets/images/arrow.svg" alt="arrow" /></div>
-          </div>
-          <div class="variants-text fade-in">
-            <div data-lang="termoyasen">Термоясен</div>
-            <div><img src="assets/images/arrow.svg" alt="arrow" /></div>
-          </div>
-          <div class="variants-text fade-in">
-            <div data-lang="ekzotika">Екзотика</div>
-            <div><img src="assets/images/arrow.svg" alt="arrow" /></div>
-          </div>
-        </div>
-        <div class="portfolio-section-variants-right-col">
-          <img src="assets/images/portfolio-5.png" alt="portfolio image" />
-        </div>
-      </div>
-    </section>
-
     <footer class="footer fade-in" id="footer">
       <div class="footer-wrapper">
         <div class="footer-left">

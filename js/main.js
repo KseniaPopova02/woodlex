@@ -133,6 +133,17 @@ const translations = {
     namePlaceholder: "Name",
     phonePlaceholder: "Phone",
     emailPlaceholder: "E-mail",
+    proNas: "ABOUT US",
+    proNas1:
+      "We firmly believe that ergonomics, plenty of light, and simplicity should come first in interior design - nothing unnecessary.",
+    proNas2:
+      "Woodlex Group began its activities in 2011. Since then, we have completed more than 200 projects. Today, we provide a full range of services from architectural design to comprehensive installation. Thanks to extensive experience, dozens of mistakes, and hundreds of completed projects, we can offer the right solutions even for the boldest architectural ideas. And the proof of this is the extensive warranty obligations on our products.",
+    proNas3:
+      "We use only natural materials. We understand that walking barefoot on your terrace is more enjoyable when you step on a natural surface. The temperature of the board, the aroma, the external aesthetics - all these elements create impressions and mood. And we are responsible for that.",
+    proces: "PROCESS",
+    kakMiRobimo: "THIS IS HOW WE DO IT",
+    NashiPartneri: "OUR PARTNERS",
+    ZKimPrazuemo: "WHO WE WORK WITH",
   },
   UA: {
     headerText: "СТУДІЯ ДИЗАЙНУ ІНТЕР'ЄРУ ТА ЕКСТЕР'ЄРУ",
@@ -152,6 +163,17 @@ const translations = {
     namePlaceholder: "Ім’я",
     phonePlaceholder: "Телефон",
     emailPlaceholder: "E-mail",
+    proNas: "ПРО НАС",
+    proNas1:
+      "Ми твердо переконані, що в інтер'єрі на першому місці повинні стояти ергономіка, велика кількість світла і легкість - нічого зайвого",
+    proNas2:
+      "Woodlex Groop почала свою діяльність у 2011 році. За цей ми реалізували більше 200 проектів. На сьогоднішній день виконуємо повний спектр послуг від архітектурного проекту до комплексного монтажу. Завдяки великому досвіду, десяткам помилок и сотням виконаних об'єктів, ми можемо запропонувати правильні рішення навіть у найсміливіших архітектурних задумах. І підтвердженням цьому є величезні гарантійні зобов'язання на наші вироби.",
+    proNas3:
+      "Використовуємо тільки натуральні матеріали. Розуміємо, що ходити босоніж по власній терасі приємніше, коли ви наступаєте босоніж на природний настил. Температура дошки, аромат, зовнішня естетика - всі ці елементи створюють враження та настрій. І ми за це відповідаємо.",
+    proces: "ПРОЦЕС",
+    kakMiRobimo: "ОСЬ, ЯК МИ ЦЕ РОБИМО",
+    NashiPartneri: "НАШІ ПАРТНЕРИ",
+    ZKimPrazuemo: "З КИМ МИ ПРАЦЮЕМО",
   },
 };
 
