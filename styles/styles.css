@@ -94,6 +94,12 @@ body {
   color: white;
 }
 
+@supports (-webkit-overflow-scrolling: touch) {
+  .main-section {
+    background-attachment: scroll;
+  }
+}
+
 .h1-seo {
   display: none;
 }
@@ -241,6 +247,10 @@ body {
 
 .footer-logo-mob {
   display: none;
+}
+
+.active-language {
+  font-weight: bold;
 }
 
 .navigation {
