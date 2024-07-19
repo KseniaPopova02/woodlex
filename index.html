@@ -326,24 +326,35 @@
           </div>
         </div>
 
-        <form class="footer-right" action="">
+        <form
+          class="footer-right"
+          action="https://formspree.io/f/xgvwvgdb"
+          method="POST"
+          id="contact-form"
+        >
           <div class="footer-logo-mob">
             <img src="assets/images/woodlex-group.svg" alt="woodlex group" />
           </div>
           <input
+            name="name"
             data-placeholder="namePlaceholder"
             placeholder="Ім’я"
             type="text"
+            required
           />
           <input
+            name="phone"
             data-placeholder="phonePlaceholder"
             placeholder="Телефон"
             type="tel"
+            required
           />
           <input
+            name="email"
             data-placeholder="emailPlaceholder"
             placeholder="E-mail"
             type="email"
+            required
           />
           <button
             class="button btn-black submit"
@@ -352,6 +363,7 @@
           >
             ЗАПИСАТИСЬ НА КОНСУЛЬТАЦІЮ
           </button>
+          <div id="form-status"></div>
         </form>
       </div>
     </footer>

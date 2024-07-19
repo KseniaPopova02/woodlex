@@ -195,3 +195,39 @@ document.addEventListener("DOMContentLoaded", (event) => {
     });
   });
 });
+
+document
+  .getElementById("contact-form")
+  .addEventListener("submit", function (event) {
+    event.preventDefault();
+    var form = event.target;
+    var status = document.getElementById("form-status");
+    var data = new FormData(form);
+
+    fetch(form.action, {
+      method: form.method,
+      body: data,
+      headers: {
+        Accept: "application/json",
+      },
+    })
+      .then((response) => {
+        if (response.ok) {
+          status.innerHTML = "Сообщение успешно отправлено!";
+          form.reset();
+        } else {
+          response.json().then((data) => {
+            if (data.errors) {
+              status.innerHTML = data.errors
+                .map((error) => error.message)
+                .join(", ");
+            } else {
+              status.innerHTML = "Ошибка при отправке сообщения.";
+            }
+          });
+        }
+      })
+      .catch((error) => {
+        status.innerHTML = "Ошибка при отправке сообщения.";
+      });
+  });
