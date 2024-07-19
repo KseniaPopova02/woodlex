@@ -13,7 +13,16 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
   closeMenu.addEventListener("click", () => {
     if (burgerMenu.classList.contains("open")) {
-      toggleMenu();
+      // Добавляем небольшую задержку перед закрытием меню
+      setTimeout(() => {
+        toggleMenu();
+        // Принудительно обновляем видимость бургер меню
+        burgerMenu.style.display = "none";
+        // Используем requestAnimationFrame для принудительной перерисовки
+        requestAnimationFrame(() => {
+          burgerMenu.style.display = "";
+        });
+      }, 10);
     }
   });
 });
