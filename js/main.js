@@ -68,3 +68,37 @@ document.addEventListener("DOMContentLoaded", (event) => {
   window.addEventListener("scroll", checkVisibility);
   checkVisibility();
 });
+
+document
+  .getElementById("language-selector")
+  .addEventListener("click", function () {
+    var dropdown = this.querySelector(".dropdown");
+    dropdown.style.display =
+      dropdown.style.display === "block" ? "none" : "block";
+  });
+
+document.querySelectorAll(".dropdown div").forEach(function (element) {
+  element.addEventListener("click", function () {
+    var selectedLang = this.getAttribute("data-lang");
+    var currentLang = document
+      .getElementById("language-selector")
+      .childNodes[0].nodeValue.trim();
+    document.getElementById("language-selector").childNodes[0].nodeValue =
+      selectedLang + " ";
+    this.setAttribute("data-lang", currentLang);
+    this.innerText = currentLang;
+    this.parentElement.style.display = "none";
+  });
+});
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function (event) {
+  if (!event.target.matches(".button-language")) {
+    var dropdowns = document.querySelectorAll(".dropdown");
+    dropdowns.forEach(function (dropdown) {
+      if (dropdown.style.display === "block") {
+        dropdown.style.display = "none";
+      }
+    });
+  }
+};

@@ -12,18 +12,16 @@
       <header>
         <div class="header">
           <div class="logo">
-            <picture>
-              <source
-                srcset="assets/images/logo-mob.svg"
-                media="(max-width: 450px)"
-              />
-              <img src="assets/images/woodlex-logo.svg" alt="logo" />
-            </picture>
+            <img src="assets/images/woodlex-logo.svg" alt="logo" />
           </div>
           <div class="text-in-header">INTERIOR AND EXTERIOR DESIGN STUDIO</div>
           <div class="header-right">
-            <div class="button-language">EN</div>
-            <div class="button-language">UA</div>
+            <div id="language-selector" class="button-language">
+              UA
+              <div class="dropdown">
+                <div data-lang="EN">EN</div>
+              </div>
+            </div>
             <div class="burger-menu" id="burger-menu">
               <span></span>
               <span></span>
@@ -32,7 +30,7 @@
           </div>
         </div>
       </header>
-      <div class="container">
+      <div class="container mob-logo-margin">
         <section class="title-wrapper">
           <h1 class="h1-seo">Woodlex</h1>
           <div class="title">
@@ -296,10 +294,7 @@
           <div class="footer-logo">
             <img src="assets/images/woodlex-group.svg" alt="woodlex group" />
           </div>
-          <div class="navigation">
-            <div>ГОЛОВНА</div>
-            <div>ПОРТФОЛІО</div>
-          </div>
+
           <div class="contact-info-wrapper">
             <a href="mailto:Woodlex.group@gmail.com" class="contact-info">
               <img src="assets/images/mail-icon.png" alt="mail-icon" />
