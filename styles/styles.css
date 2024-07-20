@@ -474,6 +474,10 @@ body.no-scroll {
   padding-bottom: 0 !important;
 }
 
+.menu-title-h2:hover {
+  font-weight: 500 !important;
+}
+
 .full-screen-menu .portfolio-section-variants-left-col {
   gap: 10px;
 }
@@ -566,7 +570,7 @@ img {
 
 /* First page */
 .about-us-title {
-  font-size: 42px;
+  font-size: 32px;
   font-weight: 300;
   text-transform: uppercase;
 }

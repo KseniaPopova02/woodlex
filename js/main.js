@@ -144,6 +144,7 @@ const translations = {
     kakMiRobimo: "THIS IS HOW WE DO IT",
     NashiPartneri: "OUR PARTNERS",
     ZKimPrazuemo: "WHO WE WORK WITH",
+    aboutUsTitle: "Our guiding principle is «functionalism and space».",
   },
   UA: {
     headerText: "СТУДІЯ ДИЗАЙНУ ІНТЕР'ЄРУ ТА ЕКСТЕР'ЄРУ",
@@ -174,6 +175,7 @@ const translations = {
     kakMiRobimo: "ОСЬ, ЯК МИ ЦЕ РОБИМО",
     NashiPartneri: "НАШІ ПАРТНЕРИ",
     ZKimPrazuemo: "З КИМ МИ ПРАЦЮЕМО",
+    aboutUsTitle: "Наш керівний принцип – «функціоналізм і простір».",
   },
 };
 
@@ -204,32 +206,7 @@ function changeLanguage(lang) {
   });
 }
 
-// document.addEventListener("DOMContentLoaded", (event) => {
-//   const sections = document.querySelectorAll(
-//     ".full-screen-menu-left .portfolio-section-title"
-//   );
-
-//   sections.forEach((section) => {
-//     section.addEventListener("click", () => {
-//       const content = section.nextElementSibling;
-//       if (content.classList.contains("open")) {
-//         content.classList.remove("open");
-//       } else {
-//         document
-//           .querySelectorAll(
-//             ".full-screen-menu-left .portfolio-section-variants-left-col.open"
-//           )
-//           .forEach((openSection) => {
-//             openSection.classList.remove("open");
-//           });
-//         content.classList.add("open");
-//       }
-//     });
-//   });
-// });
-
 document.addEventListener("DOMContentLoaded", (event) => {
-  // Обработчик для меню и подменю
   const toggleArrow = (section) => {
     const content = section.nextElementSibling;
     const arrow = section.querySelector(".arrow");
@@ -253,7 +230,6 @@ document.addEventListener("DOMContentLoaded", (event) => {
     }
   };
 
-  // Обработчик для заголовков портфолио
   const sections = document.querySelectorAll(
     ".full-screen-menu-left .portfolio-section-title"
   );
@@ -263,7 +239,6 @@ document.addEventListener("DOMContentLoaded", (event) => {
     });
   });
 
-  // Обработчик для меню "about-us"
   const aboutUsArrows = document.querySelectorAll(".about-us .arrow");
   aboutUsArrows.forEach((arrow) => {
     const section = arrow.closest(".about-us-title-wrapper");
