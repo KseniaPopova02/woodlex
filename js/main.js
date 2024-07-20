@@ -204,25 +204,83 @@ function changeLanguage(lang) {
   });
 }
 
+// document.addEventListener("DOMContentLoaded", (event) => {
+//   const sections = document.querySelectorAll(
+//     ".full-screen-menu-left .portfolio-section-title"
+//   );
+
+//   sections.forEach((section) => {
+//     section.addEventListener("click", () => {
+//       const content = section.nextElementSibling;
+//       if (content.classList.contains("open")) {
+//         content.classList.remove("open");
+//       } else {
+//         document
+//           .querySelectorAll(
+//             ".full-screen-menu-left .portfolio-section-variants-left-col.open"
+//           )
+//           .forEach((openSection) => {
+//             openSection.classList.remove("open");
+//           });
+//         content.classList.add("open");
+//       }
+//     });
+//   });
+// });
+
 document.addEventListener("DOMContentLoaded", (event) => {
+  // Обработчик для меню и подменю
+  const toggleArrow = (section) => {
+    const content = section.nextElementSibling;
+    const arrow = section.querySelector(".arrow");
+
+    if (content.classList.contains("open")) {
+      content.classList.remove("open");
+      arrow.classList.remove("rotated");
+    } else {
+      document
+        .querySelectorAll(
+          ".full-screen-menu-left .portfolio-section-variants-left-col.open"
+        )
+        .forEach((openSection) => {
+          openSection.classList.remove("open");
+          const openArrow =
+            openSection.previousElementSibling.querySelector(".arrow");
+          if (openArrow) openArrow.classList.remove("rotated");
+        });
+      content.classList.add("open");
+      arrow.classList.add("rotated");
+    }
+  };
+
+  // Обработчик для заголовков портфолио
   const sections = document.querySelectorAll(
     ".full-screen-menu-left .portfolio-section-title"
   );
-
   sections.forEach((section) => {
+    section.addEventListener("click", () => {
+      toggleArrow(section);
+    });
+  });
+
+  // Обработчик для меню "about-us"
+  const aboutUsArrows = document.querySelectorAll(".about-us .arrow");
+  aboutUsArrows.forEach((arrow) => {
+    const section = arrow.closest(".about-us-title-wrapper");
     section.addEventListener("click", () => {
       const content = section.nextElementSibling;
       if (content.classList.contains("open")) {
         content.classList.remove("open");
+        arrow.classList.remove("rotated");
       } else {
-        document
-          .querySelectorAll(
-            ".full-screen-menu-left .portfolio-section-variants-left-col.open"
-          )
-          .forEach((openSection) => {
-            openSection.classList.remove("open");
-          });
+        document.querySelectorAll(".about-us .open").forEach((openSection) => {
+          openSection.classList.remove("open");
+          const openArrow =
+            openSection.previousElementSibling.querySelector(".arrow");
+          if (openArrow) openArrow.classList.remove("rotated");
+        });
         content.classList.add("open");
+        arrow.classList.add("rotated");
       }
     });
   });

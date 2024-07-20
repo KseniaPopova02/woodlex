@@ -31,6 +31,16 @@ body {
   box-sizing: border-box;
 }
 
+.arrow {
+  -webkit-transition: -webkit-transform 0.3s ease;
+  transition: transform 0.3s ease;
+}
+
+.arrow.rotated {
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
 .main-section-video {
   position: relative;
   height: 100vh;
@@ -444,6 +454,8 @@ body.no-scroll {
 
 .full-screen-menu-left-wrapper {
   flex: 1;
+  display: flex;
+  flex-direction: column;
 }
 .full-screen-menu-right {
   flex: 1;
@@ -506,7 +518,6 @@ body.no-scroll {
   display: inline-block;
   text-decoration: none;
   color: white;
-  width: 100%;
 }
 
 .main:hover {
@@ -635,6 +646,11 @@ img {
 .our-partners-title {
   font-size: 42px;
   font-weight: 300;
+}
+
+.footer {
+  border-top: 1px solid #a89589;
+  margin-top: 100px;
 }
 
 @media (max-width: 1452px) {
