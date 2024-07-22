@@ -688,7 +688,15 @@ img {
 }
 
 .thermo-pine {
-  background: url("../assets/images/thermo-pine-filling.png");
+  background: url("../assets/images/thermo-pine-filling.png") center center;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.thermo-pine-terrace {
+  background: url("../assets/images/thermo-pine-terrace.png") center center;
   background-size: cover;
   display: flex;
   justify-content: space-between;
@@ -752,7 +760,7 @@ img {
 }
 
 .thermo-ash-terrace {
-  background: url("../assets/images/thermo-ash-terrace.png");
+  background: url("../assets/images/thermo-ash-terrace.png") center center;
   background-size: cover;
   display: flex;
   justify-content: space-between;
