@@ -149,7 +149,7 @@ body {
 .main-section {
   height: 100vh;
   width: 100%;
-  background: url("../assets/images/bg-img-1.png") no-repeat center center fixed;
+  background: url("../assets/images/bg-img-1.png") no-repeat center center;
   background-size: cover;
   position: relative;
   color: white;
@@ -552,6 +552,8 @@ body.no-scroll {
 
 a {
   text-decoration: none !important;
+  color: inherit;
+  display: inline-block;
 }
 
 img {
@@ -657,6 +659,68 @@ img {
   margin-top: 100px;
 }
 
+/* Materials */
+.thermo-ash {
+  background: url("../assets/images/thermo-ash-filling.png") center center;
+  background-size: cover;
+}
+
+.matherials-naming {
+  font-weight: 300;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: baseline;
+  gap: 20px;
+}
+
+.thermo-ash {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.matherial-naming-title {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.matherial-function {
+  font-weight: 500;
+}
+
+.text-and-image {
+  display: flex;
+  gap: 20px;
+  align-items: stretch; /* Делаем элементы по высоте контейнера */
+}
+
+.text-and-image-text {
+  flex: 1;
+  font-size: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.text-and-image-image {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text-and-image-image img {
+  height: 100%;
+  object-fit: cover;
+}
+
+.text-and-image-title {
+  margin-top: 0;
+  font-size: 32px;
+  font-weight: 300;
+}
+
 @media (max-width: 1452px) {
   .main-section {
     margin-bottom: 50px;
@@ -729,6 +793,44 @@ img {
 .our-partners-item img {
   width: auto;
   object-fit: contain;
+}
+
+.text-and-image-main-text {
+  font-size: 15px;
+}
+
+.image-and-text {
+  display: flex;
+  margin-top: 85px;
+}
+
+.image-and-text-image {
+  flex: 1;
+}
+
+.image-and-text-text {
+  flex: 1;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 15px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.image-and-text-title {
+  font-size: 32px;
+  font-weight: 300;
+}
+
+.image-and-text-main-text {
+  margin-top: 90px;
+}
+
+@media (max-width: 1317px) {
+  .image-and-text-image {
+    display: none;
+  }
 }
 
 @media (max-width: 1253px) {
@@ -820,6 +922,28 @@ img {
     flex-direction: column-reverse;
     align-items: flex-start;
   }
+  .text-and-image-title,
+  .image-and-text-title {
+    font-size: 26px;
+  }
+
+  .text-and-image {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 668px) {
+  .matherial-naming-title {
+    font-size: 32px;
+  }
+
+  .contact-us-action-text {
+    font-size: 12px;
+  }
+
+  .matherials-naming {
+    align-items: center;
+  }
 }
 
 @media (max-width: 662px) {
@@ -857,6 +981,20 @@ img {
 
   .our-partners-item img {
     width: 100px;
+  }
+}
+
+@media (max-width: 520px) {
+  .matherial-naming-title {
+    font-size: 23px;
+  }
+
+  .image-and-text {
+    margin-top: 30px;
+  }
+
+  .image-and-text-main-text {
+    margin-top: 30px;
   }
 }
 
@@ -904,5 +1042,9 @@ img {
 
   .our-partners-subtitle {
     font-size: 10px;
+  }
+  .text-and-image-title,
+  .image-and-text-title {
+    font-size: 24px;
   }
 }
