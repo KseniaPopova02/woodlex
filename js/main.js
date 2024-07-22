@@ -179,6 +179,23 @@ const translations = {
       "Installation can be faster compared to other types of filling, saving time during renovation or construction, as the material is lightweight and has a convenient shape for cutting and installation.",
     thermoAshFillingImageAndTextMainText3:
       "Thermo-ash material can be painted or treated to achieve the desired design and color. Also, the use of such filling can improve the energy efficiency of the room by retaining heat and reducing heating costs.",
+    thermoPineFillingMatherialFunction: "THERMO-PINE FILLING",
+    thermoPineFillingTextAndImageTitle:
+      "FEATURES AND ADVANTAGES OF THE MATERIAL",
+    thermoPineFillingTextAndImageMainText1:
+      "Thermo-pine cladding has several advantages, including:",
+    thermoPineFillingTextAndImageMainText2:
+      "Moisture resistance: Thermo-pine has high moisture resistance, making it an ideal material for finishing rooms with high humidity, such as bathrooms or kitchens.",
+    thermoPineFillingTextAndImageMainText3:
+      "Durability: The long service life of thermo-pine allows you to use the cladding for many years without the need for frequent updates.",
+    thermoPineFillingTextAndImageMainText4:
+      "Eco-friendliness: Thermo-pine is a natural wood that does not contain harmful substances and is an environmentally friendly material.",
+    thermoPineFillingTextAndImageMainText5:
+      "Aesthetic appearance: Thermo-pine has natural beauty, a warm color, and texture that adds coziness and naturalness to the interior of the room.",
+    thermoPineFillingTextAndImageMainText6:
+      "Strength: Thermo-pine is a fairly strong wood that withstands mechanical damage and wear.",
+    thermoPineFillingTextAndImageMainText7:
+      "Thermo-pine cladding is an excellent choice for those who value quality, aesthetics, and an eco-friendly approach to interior decoration.",
   },
   UA: {
     headerText: "СТУДІЯ ДИЗАЙНУ ІНТЕР'ЄРУ ТА ЕКСТЕР'ЄРУ",
@@ -243,6 +260,22 @@ const translations = {
       "Установка може бути швидшою порівняно з іншими видами підшивки, що зекономить час у процесі ремонту чи будівництва, оскільки матеріал легкий і має зручну форму для різання та монтажу.",
     thermoAshFillingImageAndTextMainText3:
       "Термоясневий матеріал може бути фарбований або оброблений для досягнення бажаного дизайну та кольору. Також використання подібної підшивки може покращити енергоефективність приміщення шляхом збереження тепла і зниження витрат на опалення.",
+    thermoPineFillingMatherialFunction: "ПІДШИВКА З ТЕРМОСОСНИ",
+    thermoPineFillingTextAndImageTitle: "ОСОБЛИВОСТІ ТА ПЕРЕВАГИ МАТЕРІАЛУ",
+    thermoPineFillingTextAndImageMainText1:
+      "Обшивка з термососна має декілька переваг, включаючи:",
+    thermoPineFillingTextAndImageMainText2:
+      "Стійкість до вологи: Термососна має високу стійкість до вологи, що робить її ідеальним матеріалом для обробки приміщень з підвищеною вологістю, таких як вані кімнати або кухні.",
+    thermoPineFillingTextAndImageMainText3:
+      "Довговічність: Тривалий термін служби термососни дозволяє користуватися обшивкою протягом багатьох років без необхідності частого оновлення.",
+    thermoPineFillingTextAndImageMainText4:
+      "Екологічність: Термососна є природною деревиною, яка не містить шкідливих речовин і є екологічно чистим матеріалом.",
+    thermoPineFillingTextAndImageMainText5:
+      "Естетичний вигляд: Термососна має природну красу, теплий колір та текстуру, що додає затишку та натуральність до інтер'єру приміщення.",
+    thermoPineFillingTextAndImageMainText6:
+      "Міцність: Термососна є досить міцною деревиною, яка витримує механічні пошкодження та знос.",
+    thermoPineFillingTextAndImageMainText7:
+      "Обшивка з термососни є відмінним вибором для тих, хто цінує якість, естетику та екологічний підхід до внутрішнього оздоблення приміщень.",
   },
 };
 

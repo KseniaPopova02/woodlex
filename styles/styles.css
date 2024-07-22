@@ -663,6 +663,17 @@ img {
 .thermo-ash {
   background: url("../assets/images/thermo-ash-filling.png") center center;
   background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.thermo-pine {
+  background: url("../assets/images/thermo-pine-filling.png");
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
 }
 
 .matherials-naming {
@@ -672,12 +683,6 @@ img {
   justify-content: start;
   align-items: baseline;
   gap: 20px;
-}
-
-.thermo-ash {
-  display: flex;
-  justify-content: space-between;
-  flex-direction: column;
 }
 
 .matherial-naming-title {
@@ -719,6 +724,12 @@ img {
   margin-top: 0;
   font-size: 32px;
   font-weight: 300;
+}
+
+.two-images {
+  display: flex;
+  margin-top: 75px;
+  gap: 30px;
 }
 
 @media (max-width: 1452px) {
@@ -1018,6 +1029,11 @@ img {
   }
   .header-right {
     align-items: center;
+  }
+
+  .two-images {
+    margin-top: 40px;
+    gap: 10px;
   }
 
   .navigation {
