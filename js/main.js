@@ -196,6 +196,26 @@ const translations = {
       "Strength: Thermo-pine is a fairly strong wood that withstands mechanical damage and wear.",
     thermoPineFillingTextAndImageMainText7:
       "Thermo-pine cladding is an excellent choice for those who value quality, aesthetics, and an eco-friendly approach to interior decoration.",
+    thermoAshTerraceMatherialFunction: "THERMO-ASH TERRACE",
+    materialConAndPros: "FEATURES AND ADVANTAGES OF THE MATERIAL",
+    thermoAshTerraceTextAndImageMainText1:
+      "Today, a terrace made of high-quality thermo-ash is considered the best choice for both private and commercial decoration.",
+    thermoAshTerraceTextAndImageMainText2:
+      "Sufficient strength, noble texture, and durability make thermo-ash an ideal option for covering any exploited surface.",
+    thermoAshTerraceTextAndImageMainText3:
+      "The thermo-ash terrace has several advantages:",
+    thermoAshTerraceTextAndImageMainText4:
+      "Durability: The coating perfectly protects the surface from weather, UV rays, friction, and other harmful factors. This allows you to maintain the aesthetic appearance of the terrace for a long time.",
+    thermoAshTerraceTextAndImageMainText5:
+      "Minimal maintenance: Thermo-ash terraces are easy to maintain. Simply wiping them down from time to time is enough to keep them looking like new. No need to paint or varnish them.",
+    thermoAshTerraceTextAndImageMainText6:
+      "Aesthetic appearance: Thermo-ash has a natural wooden look, adding warmth and coziness to the outdoor space. It is available in various colors and textures, allowing you to choose the best option for your interior.",
+    thermoAshTerraceTextAndImageMainText7:
+      "No deformation: Thermo-ash terraces have high resistance to deformation from moisture and temperature changes, allowing them to maintain their shape and structure for a long time.",
+    thermoAshTerraceTextAndImageMainText8:
+      "Also worth noting is resistance to pests and fungi: Thermo-ash has natural properties that make it less attractive to pests and fungi compared to other types of wood. This avoids problems with rot and damage from pests.",
+    thermoAshTerraceTextAndImageMainText9:
+      "Thermo-ash terraces have low water absorption, so they do not require enhanced edge treatment or other measures to protect against moisture and wear. They can also be laid on both flat and uneven surfaces. This allows for the creation of a unique terrace design that suits your needs and local conditions.",
   },
   UA: {
     headerText: "СТУДІЯ ДИЗАЙНУ ІНТЕР'ЄРУ ТА ЕКСТЕР'ЄРУ",
@@ -276,6 +296,26 @@ const translations = {
       "Міцність: Термососна є досить міцною деревиною, яка витримує механічні пошкодження та знос.",
     thermoPineFillingTextAndImageMainText7:
       "Обшивка з термососни є відмінним вибором для тих, хто цінує якість, естетику та екологічний підхід до внутрішнього оздоблення приміщень.",
+    thermoAshTerraceMatherialFunction: "ТЕРАСА З ТЕРМОЯСЕНЯ",
+    materialConAndPros: "ОСОБЛИВОСТІ ТА ПЕРЕВАГИ МАТЕРІАЛУ",
+    thermoAshTerraceTextAndImageMainText1:
+      "На сьогоднішній день тераса із якісного термоясена вважається найкращим вибором як для приватного користування, так і для комерційного оздоблення.",
+    thermoAshTerraceTextAndImageMainText2:
+      "Достатня міцність, благородна фактура, та довговічність роблять термоясен ідеальним варіантом для покриття будь-якої експлуатованої поверхні.",
+    thermoAshTerraceTextAndImageMainText3:
+      "Тераса з термоясену має кілька переваг:",
+    thermoAshTerraceTextAndImageMainText4:
+      "Довговічність: Покрив відмінно захищає поверхню від впливу негоди, ультрафіолетових променів, тертя та інших шкідливих факторів. Це дозволяє зберегти естетичний вигляд тераси на тривалий час.",
+    thermoAshTerraceTextAndImageMainText5:
+      "Мінімальний догляд: Термоясеневі тераси легко доглядати. Достатньо просто протирати їх від часу до часу, щоб зберегти вигляд як новий. Не потрібно фарбувати або лакувати їх.",
+    thermoAshTerraceTextAndImageMainText6:
+      "Естетичний вигляд: Термоясен має природний дерев'яний вигляд, що додає тепла та затишку до зовнішнього простору. Він доступний в різних кольорах і текстурах, що дозволяє вибрати оптимальний варіант для вашого інтер'єру.",
+    thermoAshTerraceTextAndImageMainText7:
+      "Відсутність деформацій: Тераси з термоясену мають високу стійкість до деформацій під впливом вологості та зміни температури, що дозволяє їм зберігати свою форму та структуру протягом довгого часу.",
+    thermoAshTerraceTextAndImageMainText8:
+      "Також слід відмітити стійкість до шкідників і грибків: Термоясен має природні властивості, які роблять його менш привабливим для шкідників та грибків порівняно з іншими видами деревини. Це дозволяє уникнути проблем з гниллю та пошкодженнями через шкідників.",
+    thermoAshTerraceTextAndImageMainText9:
+      "Тераси з термоясену мають низьке водопоглинання, тому вони не потребують підвищеної обробки країв або інших заходів для захисту від вологи та зносу. А також вони можуть бути укладені як на рівних, так і на нерівних поверхнях. Це дозволяє створити унікальний дизайн тераси, відповідний вашим потребам і умовам місцевості.",
   },
 };
 
