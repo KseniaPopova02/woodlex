@@ -719,6 +719,14 @@ img {
   flex-direction: column;
 }
 
+.thermo-ash-interior {
+  background: url("../assets/images/thermo-ash-interior.png") center center;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
 .matherials-naming {
   font-weight: 300;
   display: flex;
