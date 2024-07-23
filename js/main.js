@@ -261,6 +261,40 @@ const translations = {
       "A thermo-pine facade offers several advantages, such as improving the building's thermal insulation, protecting against temperature fluctuations, and reducing energy costs for heating and cooling. It can also provide resistance to weathering, enhance the building's appearance, and extend the facade's lifespan.",
     thermoPineFacadeTextAndImageMainText9:
       "Note that a thermo-pine facade can also improve the building's ecological performance, ensuring more efficient use of resources. Additionally, it can enhance indoor comfort by maintaining a stable temperature and protecting against noise and wind. Thermo-pine facade materials are also resistant to moisture and UV exposure, providing long-lasting and reliable protection for the building.",
+    thermoPineFacadeMatherialFunction: "THERMO-PINE FACADE",
+    thermoPineFacadeTextAndImageMainText1:
+      "A thermo-pine facade has several advantages that make it an attractive and popular choice for exterior cladding of houses.",
+    thermoPineFacadeTextAndImageMainText2:
+      "Weather resistance: Thermo-pine wood is processed through thermal treatment, making it more resistant to weather conditions such as rain, sun, snow, and humidity. This helps maintain the appearance of the facade for a long time.",
+    thermoPineFacadeTextAndImageMainText3:
+      "Strength and durability: The wood is known for its strength and durability, making it a reliable material for the facade that will last for many years without needing major repairs.",
+    thermoPineFacadeTextAndImageMainText4:
+      "Aesthetic appearance: Thermo-pine has an attractive natural texture and color that add elegance and warmth to your house. It gives the facade a natural and cozy look.",
+    thermoPineFacadeTextAndImageMainText5:
+      "Eco-friendly material: It is a natural, eco-friendly material that is safe for the environment, creating a sustainable and healthy living space.",
+    thermoPineFacadeTextAndImageMainText6:
+      "Design possibilities: The wood is easy to process and flexible in shaping, providing ample possibilities for various design elements on the facade, such as panels, cladding, and decorative details.",
+    thermoPineFacadeTextAndImageMainText7:
+      "Thermal insulation properties: Thermo-pine has good thermal insulation properties, which helps increase the energy efficiency of the house and reduce heating costs.",
+    thermoPineFacadeTextAndImageMainText8:
+      "A thermo-pine facade offers several advantages, such as improving the building's thermal insulation, protecting against temperature fluctuations, and reducing energy costs for heating and cooling. It can also provide resistance to weathering, enhance the building's appearance, and extend the facade's lifespan.",
+    thermoPineFacadeTextAndImageMainText9:
+      "Note that a thermo-pine facade can also improve the building's ecological performance, ensuring more efficient use of resources. Additionally, it can enhance indoor comfort by maintaining a stable temperature and protecting against noise and wind. Thermo-pine facade materials are also resistant to moisture and UV exposure, providing long-lasting and reliable protection for the building.",
+    thermoAshFacadeMatherialFunction: "THERMO-ASH FACADE",
+    thermoAshFacadeTextAndImageMainText1:
+      "A thermo-ash facade has several advantages that make it an attractive and popular choice for exterior cladding of houses.",
+    thermoAshFacadeTextAndImageMainText2:
+      "Weather resistance: Thermo-ash wood is processed through thermal treatment, making it more resistant to weather conditions such as rain, sun, snow, and humidity. This helps maintain the appearance of the facade for a long time.",
+    thermoAshFacadeTextAndImageMainText3:
+      "Strength and durability: The wood is known for its strength and durability, making it a reliable material for the facade that will last for many years without needing major repairs.",
+    thermoAshFacadeTextAndImageMainText4:
+      "Aesthetic appearance: Thermo-ash has an attractive natural texture and color that add elegance and warmth to your house. It gives the facade a natural and cozy look.",
+    thermoAshFacadeTextAndImageMainText5:
+      "Eco-friendly material: It is a natural, eco-friendly material that is safe for the environment, creating a sustainable and healthy living space.",
+    thermoAshFacadeTextAndImageMainText6:
+      "Design possibilities: The wood is easy to process and flexible in shaping, providing ample possibilities for various design elements on the facade, such as panels, cladding, and decorative details.",
+    thermoAshFacadeTextAndImageMainText7:
+      "Thermal insulation properties: Thermo-ash has good thermal insulation properties, which helps increase the energy efficiency of the house and reduce heating costs.",
   },
   UA: {
     headerText: "СТУДІЯ ДИЗАЙНУ ІНТЕР'ЄРУ ТА ЕКСТЕР'ЄРУ",
@@ -406,6 +440,21 @@ const translations = {
       "Фасад з термососни має кілька переваг, таких як поліпшення теплоізоляції будівлі, захист від перепадів температур, а також зменшення енерговитрат на опалення та кондиціювання приміщень. Також він може забезпечити стійкість до атмосферних впливів, покращити зовнішній вигляд будівлі і подовжити термін служби фасаду.",
     thermoPineFacadeTextAndImageMainText9:
       "Зверніть увагу, що фасад з термососни також може покращити екологічні показники будівлі, забезпечуючи більш енергоефективне використання ресурсів. Крім того, він може сприяти підвищенню комфорту приміщень, забезпечуючи стабільну температуру всередині приміщення та захищаючи від шуму та вітру. Матеріали для фасаду з термососни також можуть бути стійкими до впливу вологи та ультрафіолету, що забезпечує тривалий та надійний захист будівлі.",
+    thermoAshFacadeMatherialFunction: "ФАСАДИ З ТЕРМОЯСЕНЯ",
+    thermoAshFacadeTextAndImageMainText1:
+      "Фасад з термососни має кілька переваг, які роблять його привабливим і популярним вибором для зовнішнього облицювання будинків.",
+    thermoAshFacadeTextAndImageMainText2:
+      "Стійкість до погодних умов: Термососна деревина виготовляється шляхом термічної обробки, що робить її більш стійкою до погодних умов, таких як дощ, сонце, сніг та вологість. Це дозволяє зберігати вигляд фасаду протягом тривалого часу.",
+    thermoAshFacadeTextAndImageMainText3:
+      "Міцність та довговічність: Деревина відома своєю міцністю та довговічністю, що робить її надійним матеріалом для фасаду, який прослужить вам довгі роки без необхідності в серйозних ремонтах.",
+    thermoAshFacadeTextAndImageMainText4:
+      "Естетичний вигляд: Термососна має привабливу природну текстуру та колір, які додають вашому будинку вишуканість та теплоту. Вона надає фасаду природного та затишного вигляду.",
+    thermoAshFacadeTextAndImageMainText5:
+      "Екологічно чистий матеріал: Вона є природним матеріалом, екологічно чистим і дружнім до навколишнього середовища, що дозволяє створити екологічно безпечний та здоровий житловий простір.",
+    thermoAshFacadeTextAndImageMainText6:
+      "Можливості дизайну: Деревина легко обробляється та має гнучкість у формуванні, що відкриває широкі можливості для різноманітних дизайнерських елементів на фасаді, таких як панелі, облицювання та декоративні деталі.",
+    thermoAshFacadeTextAndImageMainText7:
+      "Теплоізоляційні властивості: Термососна має добрі теплоізоляційні властивості, що дозволяє підвищити енергоефективність будинку та зменшити витрати на опалення.",
   },
 };
 

@@ -711,6 +711,14 @@ img {
   flex-direction: column;
 }
 
+.thermo-ash-facade {
+  background: url("../assets/images/thermo-ash-facade-bg.png") center center;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
 .matherials-naming {
   font-weight: 300;
   display: flex;
@@ -883,6 +891,7 @@ img {
 
 .text-and-image-main-text {
   font-size: 15px;
+  font-weight: 100;
 }
 
 .image-and-text {
