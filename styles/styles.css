@@ -703,6 +703,14 @@ img {
   flex-direction: column;
 }
 
+.thermo-pine-facade {
+  background: url("../assets/images/thermo-pine-facade-bg.png") center center;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
 .matherials-naming {
   font-weight: 300;
   display: flex;
@@ -771,6 +779,10 @@ img {
   font-weight: 300;
   font-size: 42px;
   margin: 40px 0 40px 20px;
+}
+
+.one-image-mt {
+  margin-top: 50px;
 }
 
 .ordinary-text p {
