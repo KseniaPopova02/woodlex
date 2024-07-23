@@ -791,6 +791,10 @@ img {
   box-sizing: border-box;
 }
 
+.text-and-image-text-reverse {
+  flex-direction: row-reverse;
+}
+
 @media (max-width: 1452px) {
   .main-section {
     margin-bottom: 50px;
