@@ -329,7 +329,7 @@ const translations = {
       "Doors: Wood is often used for making interior doors as it is strong, durable, and has a beautiful appearance.",
     thermoAshInteriorTextAndImageMainText15:
       "Decorative elements: Thermo-ash wood can be used for making decorative elements such as mirror frames, candle holders, vases, or other accessories that add style and coziness to the interior.",
-    exoticFacadeMatherialFunction: "FACADES EXOTIC",
+    exoticFacadeMatherialFunction: "EXOTIC FACADES",
     exoticFacadeTextAndImageMainText1:
       "Exotic wooden facades have a number of advantages that make them popular for use in architecture and design. Here are the main ones:",
     exoticFacadeTextAndImageMainText2:
@@ -349,7 +349,7 @@ const translations = {
       "Installation can be faster compared to other types of paneling, saving time during renovation or construction, as the material is light and easy to cut and install.",
     exoticFacadeTextAndImageMainText9:
       "Thermoash material can be painted or treated to achieve the desired design and color. Also, using such paneling can improve the energy efficiency of the room by retaining heat and reducing heating costs.",
-    exoticFillingMatherialFunction: "EXOTIC WOOD CLADDING",
+    exoticFillingMatherialFunction: "EXOTIC FILLING",
     exoticFillingTextAndImageMainText1:
       "Exotic wood cladding has several important advantages, making it a popular choice for exterior and interior decoration of buildings. Here are the main benefits:",
     exoticFillingTextAndImageMainText2:
@@ -371,6 +371,25 @@ const translations = {
       "Prestige and status: The use of exotic wood adds prestige to any project, emphasizing the status and high level of taste of the owner.",
     exoticFillingTextAndImageMainText10:
       "Exotic wood cladding is a reliable and aesthetically pleasing choice, combining natural beauty with excellent technical characteristics.",
+    exoticTerraceMatherialFunction: "EXOTIC TERRACES",
+    exoticTerraceTextAndImageMainText1:
+      "The desire to create comfort and coziness in the home makes thermopines a popular choice for many people to make their interior more functional and stylish.",
+    exoticTerraceTextAndImageMainText2:
+      "Thermopines come in various styles, shapes, and colors, so they can be a great addition to the interior. They can serve as both a functional item and a decorative accent.",
+    exoticTerraceTextAndImageMainText3:
+      "The material is resistant to moisture, precipitation, high mechanical loads, and despite absorbing moisture, it dries quickly and does not deform.",
+    exoticTerraceTextAndImageMainText4:
+      "Thermopine decoration in the interior can be both a functional and decorative element. Here are some ideas on how you can use thermopine in the interior:",
+    exoticTerraceTextAndImageMainText5:
+      "Windowsill or table: Place a stylish thermopine on the windowsill or table as a decorative element.",
+    exoticTerraceTextAndImageMainText6:
+      "Cabinet or shelf: Place thermopine in a prominent place on the cabinet or shelf to add aesthetics to the space.",
+    exoticTerraceTextAndImageMainText7:
+      "Kitchen table: Use thermopine as part of the decor on the kitchen table to create a cozy atmosphere.",
+    exoticTerraceTextAndImageMainText8:
+      "Bedside or reading nook: Place thermopine next to the bed or in the reading nook to have a drink always at hand.",
+    exoticTerraceTextAndImageMainText9:
+      "These are just a few ideas on how to integrate thermopine into the interior. If you have specific wishes or ideas, our team is ready to implement them with quality.",
   },
   UA: {
     headerText: "СТУДІЯ ДИЗАЙНУ ІНТЕР'ЄРУ ТА ЕКСТЕР'ЄРУ",
@@ -608,6 +627,25 @@ const translations = {
       "Престиж і статус: Використання екзотичної деревини додає престижу будь-якому проекту, підкреслюючи статус і високий рівень смаку власника.",
     exoticFillingTextAndImageMainText10:
       "Підшивка з екзотичної деревини – це надійний та естетично привабливий вибір, що поєднує в собі природну красу та відмінні технічні характеристики.",
+    exoticTerraceMatherialFunction: "ТЕРАСИ З ЕКЗОТИЧНОЇ ДЕРЕВИНИ",
+    exoticTerraceTextAndImageMainText1:
+      "Бажання створити комфорт і затишок в оселі роблять термососни популярними вибором для багатьох людей, щоб зробити їхній інтер'єр більш функціональним та стильним.",
+    exoticTerraceTextAndImageMainText2:
+      "Термососни існують у різних стилях, формах та кольорах, тому вони можуть бути чудовим доповненням до інтер'єру. Вони можуть виступати як функціональний предмет, так і декоративний акцент.",
+    exoticTerraceTextAndImageMainText3:
+      "Матеріал має стійкість до вологи, опадів, високим механічним навантаженням, і, незважаючи на те, що все ж таки вбирає вологу - швидко висихає і не деформується.",
+    exoticTerraceTextAndImageMainText4:
+      "Оформлення термососни в інтер'єрі може бути як функціональним, так і декоративним елементом. Ось кілька ідей, як ви можете використовувати термососни в інтер'єрі:",
+    exoticTerraceTextAndImageMainText5:
+      "Підвіконня або стіл: Розмістіть стильну термососну на підвіконні або на столі як декоративний елемент.",
+    exoticTerraceTextAndImageMainText6:
+      "Шафа або полиця: Розмістіть термососну на видному місці на шафі або полиці, щоб додати естетику до простору.",
+    exoticTerraceTextAndImageMainText7:
+      "Кухонний стіл: Використовуйте термососну як часть декору на кухонному столі, щоб створити затишну атмосферу.",
+    exoticTerraceTextAndImageMainText8:
+      "Ліжко або куточок для читання: Помістіть термососну поруч з ліжком або у куточку для читання, щоб мати напій завжди під рукою.",
+    exoticTerraceTextAndImageMainText9:
+      "Це лише декілька ідей про те, як можна інтегрувати термососну в інтер'єр. Якщо у вас є конкретні побажання або ідеї, наша команда готова якісно їх реалізувати.",
   },
 };
 

@@ -751,6 +751,14 @@ img {
   flex-direction: column;
 }
 
+.exotic-terrace {
+  background: url("../assets/images/exotic-terrace-bg.png") center center;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
 .matherials-naming {
   font-weight: 300;
   display: flex;
