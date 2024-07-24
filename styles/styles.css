@@ -743,6 +743,14 @@ img {
   flex-direction: column;
 }
 
+.exotic-filling {
+  background: url("../assets/images/exotic-filling-bg.png") center center;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
 .matherials-naming {
   font-weight: 300;
   display: flex;

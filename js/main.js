@@ -349,6 +349,28 @@ const translations = {
       "Installation can be faster compared to other types of paneling, saving time during renovation or construction, as the material is light and easy to cut and install.",
     exoticFacadeTextAndImageMainText9:
       "Thermoash material can be painted or treated to achieve the desired design and color. Also, using such paneling can improve the energy efficiency of the room by retaining heat and reducing heating costs.",
+    exoticFillingMatherialFunction: "EXOTIC WOOD CLADDING",
+    exoticFillingTextAndImageMainText1:
+      "Exotic wood cladding has several important advantages, making it a popular choice for exterior and interior decoration of buildings. Here are the main benefits:",
+    exoticFillingTextAndImageMainText2:
+      "High aesthetic value: Exotic wood has a unique texture and color that adds uniqueness and charm to any interior or exterior. It gives a luxurious and sophisticated look to the room or building.",
+    exoticFillingTextAndImageMainText3:
+      "Resistance to external influences: Many types of exotic wood, such as teak, ipe, cumaru, and others, are known for their resistance to moisture, UV radiation, and various pests. This ensures the durability of the material and its ability to maintain its properties for a long time.",
+    exoticFillingTextAndImageMainText4:
+      "Strength and reliability: Exotic wood has high density and hardness, making it resistant to mechanical damage and wear. It can withstand heavy loads and maintain its structure even under intensive use conditions.",
+    exoticFillingTextAndImageMainText5:
+      "Natural protection: Some types of exotic wood contain natural oils and resins that provide protection against rot and insect attacks. This reduces the need for additional treatment and care for the material.",
+    exoticFillingTextAndImageMainText6:
+      "Thermal insulation properties: Exotic wood has good thermal insulation properties, helping to maintain optimal indoor temperature. This can contribute to reducing heating and cooling costs.",
+    exoticFillingTextAndImageMainText7:
+      "Environmental friendliness: Using exotic wood from certified plantations or from secondary use can be an environmentally responsible choice. Wood is a renewable resource, and with proper management, its use can be sustainable.",
+    exoticFillingTextAndImageReverseTitle: "RELIABILITY AND AESTHETICS",
+    exoticFillingTextAndImageMainText8:
+      "Acoustic properties: Wood has the ability to absorb sound, making it an excellent material for creating comfortable acoustic conditions in a room.",
+    exoticFillingTextAndImageMainText9:
+      "Prestige and status: The use of exotic wood adds prestige to any project, emphasizing the status and high level of taste of the owner.",
+    exoticFillingTextAndImageMainText10:
+      "Exotic wood cladding is a reliable and aesthetically pleasing choice, combining natural beauty with excellent technical characteristics.",
   },
   UA: {
     headerText: "СТУДІЯ ДИЗАЙНУ ІНТЕР'ЄРУ ТА ЕКСТЕР'ЄРУ",
@@ -564,6 +586,28 @@ const translations = {
       "Установка може бути швидшою порівняно з іншими видами підшивки, що зекономить час у процесі ремонту чи будівництва, оскільки матеріал легкий і має зручну форму для різання та монтажу.",
     exoticFacadeTextAndImageMainText9:
       "Термоясневий матеріал може бути фарбований або оброблений для досягнення бажаного дизайну та кольору. Також використання подібної підшивки може покращити енергоефективність приміщення шляхом збереження тепла і зниження витрат на опалення.",
+    exoticFillingMatherialFunction: "ПІДШИВКА З ЕКЗОТИЧНОЇ ДЕРЕВИНИ",
+    exoticFillingTextAndImageMainText1:
+      "Підшивка з екзотичної деревини має кілька важливих переваг, що робить її популярним вибором для зовнішнього та внутрішнього оформлення будівель. Ось основні переваги:",
+    exoticFillingTextAndImageMainText2:
+      " Висока естетична цінність: Екзотична деревина має неповторну текстуру і колір, що додає унікальності та шарму будь-якому інтер'єру або екстер'єру. Вона надає приміщенню або будівлі розкішний і вишуканий вигляд.",
+    exoticFillingTextAndImageMainText3:
+      "Стійкість до зовнішніх впливів: Багато видів екзотичної деревини, такі як тік, іпе, кумару та інші, відомі своєю стійкістю до вологи, ультрафіолетового випромінювання та різних шкідників. Це забезпечує довговічність матеріалу і його здатність зберігати свої властивості протягом тривалого часу",
+    exoticFillingTextAndImageMainText4:
+      "Міцність і надійність: Екзотична деревина має високу щільність і твердість, що робить її стійкою до механічних пошкоджень і зносу. Вона здатна витримувати великі навантаження і зберігати свою структуру навіть в умовах інтенсивної експлуатації.",
+    exoticFillingTextAndImageMainText5:
+      "Природний захист: Деякі види екзотичної деревини містять природні олії і смоли, які забезпечують їм захист від гниття і атак комах. Це знижує потребу в додатковій обробці і догляді за матеріалом.",
+    exoticFillingTextAndImageMainText6:
+      "Теплоізоляційні властивості: Екзотична деревина має хороші теплоізоляційні властивості, що допомагає зберігати оптимальну температуру всередині приміщення. Це може сприяти зниженню витрат на опалення і кондиціювання.",
+    exoticFillingTextAndImageMainText7:
+      "Екологічність: Використання екзотичної деревини з сертифікованих плантацій або з вторинного використання може бути екологічно відповідальним вибором. Деревина є відновлюваним ресурсом, і за умови правильного управління її використання може бути сталим.",
+    exoticFillingTextAndImageReverseTitle: "НАДІЙНІСТЬ ТА ЕСТЕТИКА",
+    exoticFillingTextAndImageMainText8:
+      "Акустичні властивості: Деревина має здатність поглинати звук, що робить її відмінним матеріалом для створення комфортних акустичних умов в приміщенні.",
+    exoticFillingTextAndImageMainText9:
+      "Престиж і статус: Використання екзотичної деревини додає престижу будь-якому проекту, підкреслюючи статус і високий рівень смаку власника.",
+    exoticFillingTextAndImageMainText10:
+      "Підшивка з екзотичної деревини – це надійний та естетично привабливий вибір, що поєднує в собі природну красу та відмінні технічні характеристики.",
   },
 };
 
