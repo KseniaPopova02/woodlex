@@ -329,6 +329,26 @@ const translations = {
       "Doors: Wood is often used for making interior doors as it is strong, durable, and has a beautiful appearance.",
     thermoAshInteriorTextAndImageMainText15:
       "Decorative elements: Thermo-ash wood can be used for making decorative elements such as mirror frames, candle holders, vases, or other accessories that add style and coziness to the interior.",
+    exoticFacadeMatherialFunction: "FACADES EXOTIC",
+    exoticFacadeTextAndImageMainText1:
+      "Exotic wooden facades have a number of advantages that make them popular for use in architecture and design. Here are the main ones:",
+    exoticFacadeTextAndImageMainText2:
+      "Aesthetic appeal: Exotic wood has a unique texture and color that give the building a special charm and elegance. Such facades can look luxurious and original, standing out against standard materials.",
+    exoticFacadeTextAndImageMainText3:
+      "Durability: Many types of exotic wood, such as teak, ipe, mahogany, are known for their high resistance to external factors such as moisture, solar radiation, and pests. This makes them durable and reliable materials for facades.",
+    exoticFacadeTextAndImageMainText4:
+      "Rot and pest resistance: Thermopine wood is known for its natural resistance to rot, pests, and mold, which allows it to last a long time without special maintenance.",
+    exoticFacadeTextAndImageMainText5:
+      "Environmental friendliness: Using exotic wood from certified plantations or from secondary use can be an environmentally responsible choice. Wood is a renewable resource, and with proper management, its use can be sustainable.",
+    exoticFacadeTextAndImageMainText6:
+      "Thermal insulation properties: Wood has excellent thermal insulation properties, which helps maintain optimal indoor temperature and reduce heating and cooling costs.",
+    exoticFacadeImageAndTextTitle: "MULTIFUNCTIONALITY AND EASY INSTALLATION",
+    exoticFacadeTextAndImageMainText7:
+      "Thermoash paneling can be used for decorating various types of rooms, making it a versatile choice for any design projects.",
+    exoticFacadeTextAndImageMainText8:
+      "Installation can be faster compared to other types of paneling, saving time during renovation or construction, as the material is light and easy to cut and install.",
+    exoticFacadeTextAndImageMainText9:
+      "Thermoash material can be painted or treated to achieve the desired design and color. Also, using such paneling can improve the energy efficiency of the room by retaining heat and reducing heating costs.",
   },
   UA: {
     headerText: "СТУДІЯ ДИЗАЙНУ ІНТЕР'ЄРУ ТА ЕКСТЕР'ЄРУ",
@@ -523,17 +543,27 @@ const translations = {
       "Двері: Дерево часто використовується для виготовлення внутрішніх дверей, оскільки воно володіє міцністю, довговічністю і красивим зовнішнім виглядом.",
     thermoAshInteriorTextAndImageMainText15:
       "Декоративні елементи: Термоясене дерево може бути використане для виготовлення декоративних елементів, таких як рами для дзеркал, свічники, вази чи інші аксесуари, що додадуть інтер'єру стильності та затишку.",
-    thermoPineInteriorMatherialFunction: "ІНТЕР’ЄР З ТЕРМОСОСНИ",
-    thermoPineInteriorTextAndImageMainText1: "",
-    thermoPineInteriorTextAndImageMainText2: "",
-    thermoPineInteriorTextAndImageMainText3: "",
-    thermoPineInteriorTextAndImageMainText4: "",
-    thermoPineInteriorTextAndImageMainText5: "",
-    thermoPineInteriorTextAndImageMainText6: "",
-    thermoPineInteriorTextAndImageMainText7: "",
-    thermoPineInteriorTextAndImageMainText8: "",
-    thermoPineInteriorTextAndImageMainText9: "",
-    thermoPineInteriorTextAndImageMainText10: "",
+    exoticFacadeMatherialFunction: "ФАСАДИ З ЕКЗОТИЧНОЇ ДЕРЕВИНИ",
+    exoticFacadeTextAndImageMainText1:
+      "Фасади з екзотичної деревини мають ряд переваг, які роблять їх популярними для використання в архітектурі та дизайні. Ось основні з них:",
+    exoticFacadeTextAndImageMainText2:
+      "Естетична привабливість: Екзотична деревина має унікальну текстуру та колір, які надають будівлі особливого шарму та елегантності. Такі фасади можуть виглядати розкішно і оригінально, виділяючись на фоні стандартних матеріалів.",
+    exoticFacadeTextAndImageMainText3:
+      "Довговічність: Багато видів екзотичної деревини, такі як тік, іпе, махагон, відомі своєю високою стійкістю до впливу зовнішніх факторів, таких як волога, сонячне випромінювання та шкідники. Це робить їх довговічними та надійними матеріалами для фасадів.",
+    exoticFacadeTextAndImageMainText4:
+      "Стійкість до гниття і шкідників: Термососна деревина відома своєю природною стійкістю до гниття, шкідників і плісняви, що дозволяє їй прослужити довгий час без спеціального обслуговування.",
+    exoticFacadeTextAndImageMainText5:
+      "Екологічність: Використання екзотичної деревини з сертифікованих плантацій або з вторинного використання може бути екологічно відповідальним вибором. Деревина є відновлюваним ресурсом, і за умови правильного управління її використання може бути сталим.",
+    exoticFacadeTextAndImageMainText6:
+      "Теплоізоляційні властивості: Деревина має відмінні теплоізоляційні властивості, що допомагає зберігати оптимальну температуру всередині будівлі та знижувати витрати на опалення та кондиціювання.",
+    exoticFacadeImageAndTextTitle:
+      "БАГАТОФУНКЦІОНАЛЬНІСТЬ ТА КОМФОРТНИЙ МОНТАЖ",
+    exoticFacadeTextAndImageMainText7:
+      "Термояснева підшивка може бути використана для оздоблення різних типів приміщень, що робить її універсальним вибором для будь-яких дизайнерських проектів",
+    exoticFacadeTextAndImageMainText8:
+      "Установка може бути швидшою порівняно з іншими видами підшивки, що зекономить час у процесі ремонту чи будівництва, оскільки матеріал легкий і має зручну форму для різання та монтажу.",
+    exoticFacadeTextAndImageMainText9:
+      "Термоясневий матеріал може бути фарбований або оброблений для досягнення бажаного дизайну та кольору. Також використання подібної підшивки може покращити енергоефективність приміщення шляхом збереження тепла і зниження витрат на опалення.",
   },
 };
 

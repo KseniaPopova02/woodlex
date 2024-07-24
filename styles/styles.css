@@ -735,6 +735,14 @@ img {
   flex-direction: column;
 }
 
+.exotic-facade {
+  background: url("../assets/images/exotic-facade-bg.png") center center;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
 .matherials-naming {
   font-weight: 300;
   display: flex;
@@ -947,6 +955,7 @@ li {
 
 .image-and-text-main-text {
   margin-top: 90px;
+  font-weight: 100;
 }
 
 @media (max-width: 1317px) {
