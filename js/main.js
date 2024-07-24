@@ -211,10 +211,12 @@ const translations = {
     thermoAshTerraceTextAndImageMainText6:
       "Aesthetic appearance: Thermo-ash has a natural wooden look, adding warmth and coziness to the outdoor space. It is available in various colors and textures, allowing you to choose the best option for your interior.",
     thermoAshTerraceTextAndImageMainText7:
-      "No deformation: Thermo-ash terraces have high resistance to deformation from moisture and temperature changes, allowing them to maintain their shape and structure for a long time.",
+      "Thermo-ash is a natural material that does not contain harmful substances. It is an environmentally friendly option for terrace arrangements.",
     thermoAshTerraceTextAndImageMainText8:
-      "Also worth noting is resistance to pests and fungi: Thermo-ash has natural properties that make it less attractive to pests and fungi compared to other types of wood. This avoids problems with rot and damage from pests.",
+      "No deformation: Thermo-ash terraces have high resistance to deformation from moisture and temperature changes, allowing them to maintain their shape and structure for a long time.",
     thermoAshTerraceTextAndImageMainText9:
+      "Also worth noting is resistance to pests and fungi: Thermo-ash has natural properties that make it less attractive to pests and fungi compared to other types of wood. This avoids problems with rot and damage from pests.",
+    thermoAshTerraceTextAndImageMainText10:
       "Thermo-ash terraces have low water absorption, so they do not require enhanced edge treatment or other measures to protect against moisture and wear. They can also be laid on both flat and uneven surfaces. This allows for the creation of a unique terrace design that suits your needs and local conditions.",
     thermoPineTerraceMatherialFunction: "THERMO-PINE TERRACE",
     thermoPineTerraceTextAndImageMainText1:
@@ -422,36 +424,38 @@ const translations = {
     thermoAshTerraceTextAndImageMainText6:
       "Естетичний вигляд: Термоясен має природний дерев'яний вигляд, що додає тепла та затишку до зовнішнього простору. Він доступний в різних кольорах і текстурах, що дозволяє вибрати оптимальний варіант для вашого інтер'єру.",
     thermoAshTerraceTextAndImageMainText7:
-      "Відсутність деформацій: Тераси з термоясену мають високу стійкість до деформацій під впливом вологості та зміни температури, що дозволяє їм зберігати свою форму та структуру протягом довгого часу.",
+      "Екологічність: Термоясен - це природний матеріал, що не містить шкідливих речовин. Він є екологічно чистим варіантом для облаштування тераси.",
     thermoAshTerraceTextAndImageMainText8:
-      "Також слід відмітити стійкість до шкідників і грибків: Термоясен має природні властивості, які роблять його менш привабливим для шкідників та грибків порівняно з іншими видами деревини. Це дозволяє уникнути проблем з гниллю та пошкодженнями через шкідників.",
+      "Відсутність деформацій: Тераси з термоясену мають високу стійкість до деформацій під впливом вологості та зміни температури, що дозволяє їм зберігати свою форму та структуру протягом довгого часу.",
     thermoAshTerraceTextAndImageMainText9:
+      "Також слід відмітити стійкість до шкідників і грибків: Термоясен має природні властивості, які роблять його менш привабливим для шкідників та грибків порівняно з іншими видами деревини. Це дозволяє уникнути проблем з гниллю та пошкодженнями через шкідників.",
+    thermoAshTerraceTextAndImageMainText10:
       "Тераси з термоясену мають низьке водопоглинання, тому вони не потребують підвищеної обробки країв або інших заходів для захисту від вологи та зносу. А також вони можуть бути укладені як на рівних, так і на нерівних поверхнях. Це дозволяє створити унікальний дизайн тераси, відповідний вашим потребам і умовам місцевості.",
     thermoPineTerraceMatherialFunction: "ТЕРАСА З ТЕРМОСОСНИ",
-    thermoAshTerraceTextAndImageMainText1:
+    thermoPineTerraceTextAndImageMainText1:
       "Термососна деревина чудово підходить для використання на терасі через свої переваги.",
-    thermoAshTerraceTextAndImageMainText2: "Ось деякі з них:",
-    thermoAshTerraceTextAndImageMainText3:
+    thermoPineTerraceTextAndImageMainText2: "Ось деякі з них:",
+    thermoPineTerraceTextAndImageMainText3:
       "Міцність і довговічність: Термососна деревина відома своєю міцністю та стійкістю до зношування, що робить її ідеальним матеріалом для терас. Вона добре переносить зовнішні впливи, включаючи погодні умови та знос.",
-    thermoAshTerraceTextAndImageMainText4:
+    thermoPineTerraceTextAndImageMainText4:
       "Стійкість до гниття і шкідників: Термососна деревина відома своєю природною стійкістю до гниття, шкідників і плісняви, що дозволяє їй прослужити довгий час без спеціального обслуговування.",
-    thermoAshTerraceTextAndImageMainText5:
+    thermoPineTerraceTextAndImageMainText5:
       "Стійкість до вологи: Термососна деревина має високу стійкість до вологи, що робить її ідеальним вибором для терас, де матеріал буде піддаватися впливу дощу та вологи.",
-    thermoAshTerraceTextAndImageMainText6:
+    thermoPineTerraceTextAndImageMainText6:
       "Естетика: Термососна деревина має привабливий зовнішній вигляд з виразними волокнами та природними відтінками, які нададуть вашій терасі природної краси.",
-    thermoAshTerraceTextAndImageMainText7:
+    thermoPineTerraceTextAndImageMainText7:
       "Сприяння екологічності: Термососна деревина є екологічно чистим матеріалом, що додає еко-дружній аспект до вашого проекту тераси.",
-    thermoAshTerraceTextAndImageMainText8:
+    thermoPineTerraceTextAndImageMainText8:
       "Можливість обробки: Термососна деревина легко обробляється і піддається фарбуванню або оліюванню, що дозволяє вам створити індивідуальний дизайн для вашої тераси.",
-    thermoAshTerraceTextAndImageReverseTitle:
+    thermoPineTerraceTextAndImageReverseTitle:
       "ПРАВИЛЬНИЙ ДОГЛЯД - СИНОНІМ ДОВГОВІЧНОСТІ",
-    thermoAshTerraceTextAndImageMainText9:
+    thermoPineTerraceTextAndImageMainText9:
       "Термососна деревина славиться своєю високою стійкістю і довговічністю, що робить її популярним вибором для терас. Тривалість служби тераси з термососни залежить від кількох факторів, таких як якість самого дерева, якість установки та обслуговування.",
-    thermoAshTerraceTextAndImageMainText10:
+    thermoPineTerraceTextAndImageMainText10:
       "Зазвичай термососна тераса може прослужити від 15 до 25 років або навіть більше при належному догляді.",
-    thermoAshTerraceTextAndImageMainText11:
+    thermoPineTerraceTextAndImageMainText11:
       "Рекомендується регулярно обновлювати захисний шар на терасі шляхом оліювання або фарбування, регулярно чистити від бруду та оглядати терасу на рахунок пошкоджень. Це допоможе зберегти дерево в хорошому стані і збільшить його термін служби.",
-    thermoAshTerraceTextAndImageMainText12:
+    thermoPineTerraceTextAndImageMainText12:
       "Дотримуючись цих порад і надаючи дереву належний догляд, тераса з термососни може прослужити вам довгі роки, надаючи красу і комфорт вашому зовнішньому простору.",
     thermoPineFacadeMatherialFunction: "ФАСАДИ З ТЕРМОСОСНИ",
     thermoPineFacadeTextAndImageMainText1:
@@ -519,6 +523,17 @@ const translations = {
       "Двері: Дерево часто використовується для виготовлення внутрішніх дверей, оскільки воно володіє міцністю, довговічністю і красивим зовнішнім виглядом.",
     thermoAshInteriorTextAndImageMainText15:
       "Декоративні елементи: Термоясене дерево може бути використане для виготовлення декоративних елементів, таких як рами для дзеркал, свічники, вази чи інші аксесуари, що додадуть інтер'єру стильності та затишку.",
+    thermoPineInteriorMatherialFunction: "ІНТЕР’ЄР З ТЕРМОСОСНИ",
+    thermoPineInteriorTextAndImageMainText1: "",
+    thermoPineInteriorTextAndImageMainText2: "",
+    thermoPineInteriorTextAndImageMainText3: "",
+    thermoPineInteriorTextAndImageMainText4: "",
+    thermoPineInteriorTextAndImageMainText5: "",
+    thermoPineInteriorTextAndImageMainText6: "",
+    thermoPineInteriorTextAndImageMainText7: "",
+    thermoPineInteriorTextAndImageMainText8: "",
+    thermoPineInteriorTextAndImageMainText9: "",
+    thermoPineInteriorTextAndImageMainText10: "",
   },
 };
 
