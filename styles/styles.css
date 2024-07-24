@@ -601,10 +601,9 @@ img {
   font-weight: 300;
 }
 
-.about-us-title-wrapper {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+.about-us-title-wrapper P {
+  font-size: 15px;
+  font-weight: 100;
 }
 
 .about-us-subtitle {
