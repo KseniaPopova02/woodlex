@@ -758,6 +758,14 @@ img {
   flex-direction: column;
 }
 
+.exclusive-pieces {
+  background: url("../assets/images/exclusive-pieces.png") center center;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
 .matherials-naming {
   font-weight: 300;
   display: flex;

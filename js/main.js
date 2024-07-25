@@ -390,6 +390,32 @@ const translations = {
       "Bedside or reading nook: Place thermopine next to the bed or in the reading nook to have a drink always at hand.",
     exoticTerraceTextAndImageMainText9:
       "These are just a few ideas on how to integrate thermopine into the interior. If you have specific wishes or ideas, our team is ready to implement them with quality.",
+    exclusivePiecesMatherialFunction: "EXCLUSIVE PIECES",
+    exclusivePiecesTextAndImageMainText1:
+      "Interior and exterior elements made of thermowood have many advantages, making them increasingly popular in construction and design.",
+    exclusivePiecesTextAndImageMainText2: "Advantages for interiors:",
+    exclusivePiecesTextAndImageMainText3:
+      "Dimensional stability: Thermowood hardly changes its dimensions with humidity changes, which is important for the stability of interior elements such as floors, walls, and furniture.",
+    exclusivePiecesTextAndImageMainText4:
+      "Aesthetics: Thermowood has a beautiful, uniform color and texture that adds warmth and naturalness to the interior.",
+    exclusivePiecesTextAndImageMainText5:
+      "Comfort: Thanks to improved thermal insulation properties, thermowood creates a comfortable microclimate in the room.",
+    exclusivePiecesTextAndImageMainText6:
+      "Durability: Interior elements made of thermowood last longer and require less maintenance due to their resistance to wear and mechanical damage.",
+    exclusivePiecesTextAndImageMainText7: "Advantages for exteriors:",
+    exclusivePiecesTextAndImageMainText8:
+      "Weather resistance: Thermowood withstands moisture, UV radiation, and temperature fluctuations well, making it ideal for outdoor applications such as facades, terraces, and gazebos.",
+    exclusivePiecesTextAndImageMainText9:
+      "Pest protection: Due to thermal treatment, the wood becomes less attractive to insects and fungi, which extends the lifespan of exterior structures.",
+    exclusivePiecesTextAndImageTitle: "BEAUTY AND ECO-FRIENDLINESS",
+    exclusivePiecesTextAndImageMainText10:
+      "Natural appearance: Thermowood has a natural and attractive appearance that blends well with other materials and landscape design.",
+    exclusivePiecesTextAndImageMainText11:
+      "Eco-friendliness: The absence of chemical treatment makes thermowood safe for the environment and human health, which is important for exterior structures.",
+    exclusivePiecesTextAndImageMainText12:
+      "Ease of maintenance: Exterior elements made of thermowood require less maintenance and repair, reducing upkeep costs.",
+    exclusivePiecesTextAndImageMainText13:
+      "Due to these advantages, thermowood becomes an optimal choice for creating durable and beautiful interiors and exteriors that harmoniously blend with nature and meet modern environmental standards.",
   },
   UA: {
     headerText: "СТУДІЯ ДИЗАЙНУ ІНТЕР'ЄРУ ТА ЕКСТЕР'ЄРУ",
@@ -646,6 +672,32 @@ const translations = {
       "Ліжко або куточок для читання: Помістіть термососну поруч з ліжком або у куточку для читання, щоб мати напій завжди під рукою.",
     exoticTerraceTextAndImageMainText9:
       "Це лише декілька ідей про те, як можна інтегрувати термососну в інтер'єр. Якщо у вас є конкретні побажання або ідеї, наша команда готова якісно їх реалізувати.",
+    exclusivePiecesMatherialFunction: "ЕКСКЛЮЗИВНІ ВИРОБИ",
+    exclusivePiecesTextAndImageMainText1:
+      "Елементи інтер'єру та екстер'єру з термодерева мають безліч переваг, завдяки яким вони стають все більш популярними в будівництві та дизайні.",
+    exclusivePiecesTextAndImageMainText2: "Переваги для інтер'єру:",
+    exclusivePiecesTextAndImageMainText3:
+      "Стабільність розмірів: Термодерево майже не змінює свої розміри при зміні вологості, що важливо для стабільності інтер'єрних елементів, таких як підлога, стіни та меблі.",
+    exclusivePiecesTextAndImageMainText4:
+      "Естетика: Термодерево має красивий, рівномірний колір і текстуру, що додає інтер'єру тепла і природності.",
+    exclusivePiecesTextAndImageMainText5:
+      "Комфорт: Завдяки покращеним теплоізоляційним властивостям, термодерево створює комфортний мікроклімат в приміщенні.",
+    exclusivePiecesTextAndImageMainText6:
+      "Довговічність: Внутрішні елементи з термодерева служать довше і потребують менше догляду, завдяки стійкості до зношування і механічних пошкоджень.",
+    exclusivePiecesTextAndImageMainText7: "Переваги для екстер'єру:",
+    exclusivePiecesTextAndImageMainText8:
+      "Стійкість до погодних умов: Термодерево добре витримує вплив вологи, ультрафіолетового випромінювання та перепадів температур, що робить його ідеальним для зовнішнього застосування, таких як фасади, тераси та альтанки.",
+    exclusivePiecesTextAndImageMainText9:
+      "Захист від шкідників: Завдяки термічній обробці, дерево стає менш привабливим для комах і грибків, що збільшує термін служби зовнішніх конструкцій.",
+    exclusivePiecesTextAndImageTitle: "КРАСА ТА ЕКОЛОГІЧНІСТЬ",
+    exclusivePiecesTextAndImageMainText10:
+      "Природний вигляд: Термодерево має природний і привабливий зовнішній вигляд, який добре поєднується з іншими матеріалами і ландшафтним дизайном.",
+    exclusivePiecesTextAndImageMainText11:
+      "Екологічність: Відсутність хімічної обробки робить термодерево безпечним для навколишнього середовища і здоров'я людей, що важливо для зовнішніх конструкцій.",
+    exclusivePiecesTextAndImageMainText12:
+      "Легкість у догляді: Зовнішні елементи з термодерева потребують менше обслуговування та ремонту, що зменшує витрати на догляд.",
+    exclusivePiecesTextAndImageMainText13:
+      "Завдяки цим перевагам, термодерево стає оптимальним вибором для створення довговічних і красивих інтер'єрів та екстер'єрів, які гармонійно поєднуються з природою та відповідають сучасним екологічним стандартам.",
   },
 };
 
