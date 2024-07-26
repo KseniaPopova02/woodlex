@@ -357,7 +357,7 @@ body {
 
 .footer-portfolio {
   border-top: 1px solid #a89589;
-  margin-top: 300px;
+  margin-top: 400px;
 }
 
 .footer-wrapper {
@@ -718,16 +718,8 @@ img {
   flex-direction: column;
 }
 
-.thermo-ash-interior {
-  background: url("../assets/images/thermo-ash-interior.png") center center;
-  background-size: cover;
-  display: flex;
-  justify-content: space-between;
-  flex-direction: column;
-}
-
-.thermo-pine-interior {
-  background: url("../assets/images/thermo-pine-interior-bg.png") center center;
+.thermo-wood-interior {
+  background: url("../assets/images/thermo-wood-interior-bg.png") center center;
   background-size: cover;
   display: flex;
   justify-content: space-between;
