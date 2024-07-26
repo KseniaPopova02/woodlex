@@ -297,38 +297,7 @@ const translations = {
       "Design possibilities: The wood is easy to process and flexible in shaping, providing ample possibilities for various design elements on the facade, such as panels, cladding, and decorative details.",
     thermoAshFacadeTextAndImageMainText7:
       "Thermal insulation properties: Thermo-ash has good thermal insulation properties, which helps increase the energy efficiency of the house and reduce heating costs.",
-    thermoAshInteriorMatherialFunction: "THERMO-ASH INTERIOR",
-    thermoAshInteriorTextAndImageReverseTitle:
-      "PROPER CARE - SYNONYM OF LONGEVITY",
-    thermoAshInteriorTextAndImageMainText1:
-      "When it comes to thermo-ash for interiors, the advantages may include:",
-    thermoAshInteriorTextAndImageMainText2:
-      "Naturalness: Thermo-ash wood has natural beauty and a warm color, giving your interior a natural and cozy look.",
-    thermoAshInteriorTextAndImageMainText3:
-      "Strength and durability: Thermo-ash wood is known for its strength and resistance to deformation, making it an ideal choice for furniture and flooring.",
-    thermoAshInteriorTextAndImageMainText4:
-      "Energy efficiency: Thermo-ash has warm floor properties, helping to retain heat in the room, which can reduce heating costs.",
-    thermoAshInteriorTextAndImageMainText5:
-      "Eco-friendliness: Thermo-ash is an environmentally friendly material that does not contain harmful substances, which can be important for health and comfort in the room.",
-    thermoAshInteriorTextAndImageMainText6:
-      "Uniqueness: Each piece of thermo-ash has unique shades and patterns, allowing you to create a unique interior that highlights your style.",
-    thermoAshInteriorTextAndImageMainText7:
-      "Absence of gaps: Thermo-ash wood withstands changes in temperature and humidity well, reducing the risk of gaps between floorboards or furniture deformation.",
-    thermoAshInteriorTextAndImageMainText8:
-      "Ease of processing: Thermo-ash is quite easy to process, allowing for interesting design solutions and adding an individual charm to your interior.",
-    thermoAshInteriorTextAndImageMainText9:
-      "Absence of allergens: Thermo-ash wood is hypoallergenic, making it ideal for people with allergies or sensitivities to dust and other allergens.",
-    thermoAshInteriorTextAndImageMainText10:
-      "Thermo-ash wood is very flexible and can be used for various rooms and interior elements.",
-    thermoAshInteriorTextAndImageMainText11: "Here are some of them:",
-    thermoAshInteriorTextAndImageMainText12:
-      "Flooring: Wood is well suited for floor coverings as it is strong, wear-resistant, and has a beautiful appearance.",
-    thermoAshInteriorTextAndImageMainText13:
-      "Walls and finishes: Thermo-ash wood can be used for wall cladding, creating decorative panels or exposed beams, adding warmth and naturalness to the interior.",
-    thermoAshInteriorTextAndImageMainText14:
-      "Doors: Wood is often used for making interior doors as it is strong, durable, and has a beautiful appearance.",
-    thermoAshInteriorTextAndImageMainText15:
-      "Decorative elements: Thermo-ash wood can be used for making decorative elements such as mirror frames, candle holders, vases, or other accessories that add style and coziness to the interior.",
+
     exoticFacadeMatherialFunction: "EXOTIC FACADES",
     exoticFacadeTextAndImageMainText1:
       "Exotic wooden facades have a number of advantages that make them popular for use in architecture and design. Here are the main ones:",
@@ -416,6 +385,36 @@ const translations = {
     exclusivePiecesTextAndImageMainText13:
       "Due to these advantages, thermowood becomes an optimal choice for creating durable and beautiful interiors and exteriors that harmoniously blend with nature and meet modern environmental standards.",
     termoDerevo: "THERMO WOOD",
+    thermoWoodInteriorMatherialFunction: "THERMO WOOD INTERIORS",
+    thermoWoodInteriorTextAndImageMainText1:
+      "When it comes to thermowood for interiors, the advantages can include:",
+    thermoWoodInteriorTextAndImageMainText2:
+      "Naturalness: Thermowood has natural beauty and a warm color, giving your interior a natural and cozy look.",
+    thermoWoodInteriorTextAndImageMainText3:
+      "Strength and durability: Thermowood is known for its strength and resistance to deformation, making it an ideal choice for furniture and flooring.",
+    thermoWoodInteriorTextAndImageMainText4:
+      "Energy efficiency: Thermowood has properties of warm flooring, which helps retain heat in the room, potentially reducing heating costs.",
+    thermoWoodInteriorTextAndImageMainText5:
+      "Eco-friendliness: Thermowood is an environmentally friendly material that does not contain harmful substances, which can be important for health and comfort indoors.",
+    thermoWoodInteriorTextAndImageMainText6:
+      "Uniqueness: Each piece of thermowood has unique shades and patterns, allowing for a unique interior that highlights your style.",
+    thermoWoodInteriorTextAndImageMainText7:
+      "No gaps: Thermowood withstands changes in temperature and humidity well, reducing the risk of gaps between floor planks or warping of furniture.",
+    thermoWoodInteriorTextAndImageMainText8:
+      "Ease of processing: Thermowood is quite easy to process, allowing for interesting design solutions and adding individual charm to your interior.",
+    thermoWoodInteriorTextAndImageMainText9:
+      "Allergen-free: Thermowood is a hypoallergenic material, making it ideal for people with allergies or sensitivities to dust and other allergens.",
+    thermoWoodInteriorTextAndImageMainText10:
+      "Thermowood is a very flexible material that can be used for various rooms and interior elements.",
+    thermoWoodInteriorTextAndImageMainText11: "Here are some of them:",
+    thermoWoodInteriorTextAndImageMainText12:
+      "Flooring: Wood is well-suited for flooring as it is strong, wear-resistant, and has a beautiful appearance.",
+    thermoWoodInteriorTextAndImageMainText13:
+      "Walls and finishes: Thermowood can be used for wall cladding, creating decorative panels, or exposed beams, adding warmth and naturalness to the interior.",
+    thermoWoodInteriorTextAndImageMainText14:
+      "Doors: Wood is often used for making interior doors due to its strength, durability, and beautiful appearance.",
+    thermoWoodInteriorTextAndImageMainText15:
+      "Decorative elements: Thermowood can be used for making decorative elements such as mirror frames, candle holders, vases, or other accessories that add style and coziness to the interior.",
   },
   UA: {
     termoDerevo: "ТЕРМОДЕРЕВО",
@@ -579,39 +578,7 @@ const translations = {
       "Висока міцність і стійкість: Термоясен відомий своєю високою міцністю і стійкістю до механічних пошкоджень. Це робить його відмінним вибором для фасадів будівель, особливо в умовах високого навантаження.",
     thermoAshFacadeTextAndImageMainText7:
       "Загалом, термоясеневий фасад є стильним, довговічним і екологічно чистим варіантом для облицювання будівель, який може вплинути на зовнішній вигляд та якість вашого житла або офісу.",
-    thermoAshInteriorMatherialFunction: "ІНТЕР’ЄР З ТЕРМОЯСЕНА",
-    thermoAshInteriorTextAndImageReverseTitle:
-      "ПРАВИЛЬНИЙ ДОГЛЯД - СИНОНІМ ДОВГОВІЧНОСТІ",
-    thermoAshFillingMatherialFunction: "ПІДШИВКА З ТЕРМОЯСЕНА",
-    thermoAshInteriorTextAndImageMainText1:
-      "Коли мова йде про термоясене для інтер'єру, переваги можуть включати:",
-    thermoAshInteriorTextAndImageMainText2:
-      "Природність: Термоясене дерево має природну красу і теплий колір, що надасть вашому інтер'єру природний та затишний вигляд.",
-    thermoAshInteriorTextAndImageMainText3:
-      "Міцність і довговічність: Термоясене дерево відоме своєю міцністю та стійкістю до деформацій, що робить його ідеальним вибором для меблів і підлоги.",
-    thermoAshInteriorTextAndImageMainText4:
-      "Енергоефективність: Термоясен має властивості теплої підлоги, яка допомагає зберігати тепло в кімнаті, що може зменшити витрати на опалення.",
-    thermoAshInteriorTextAndImageMainText5:
-      "Екологічність: Термоясен є екологічно чистим матеріалом, який не містить шкідливих речовин, що може бути важливо для здоров'я і комфорту в приміщенні.",
-    thermoAshInteriorTextAndImageMainText6:
-      "Унікальність: Кожен шматок термоясену має унікальні відтінки і візерунки, що дозволяє створити унікальний інтер'єр, який підкреслить ваш стиль.",
-    thermoAshInteriorTextAndImageMainText7:
-      "Відсутність зазорів: Термоясене дерево добре витримує зміни температури та вологості, тому зменшується ризик появи зазорів між планками підлоги або спотворення меблів.",
-    thermoAshInteriorTextAndImageMainText8:
-      "Легкість обробки: Термоясень досить легко піддавати обробці, що дозволяє створити цікаві дизайнерські рішення і додати індивідуальний шарм вашому інтер'єру.",
-    thermoAshInteriorTextAndImageMainText9:
-      "Відсутність алергенів: Термоясене дерево є гіпоалергенним матеріалом, що робить його ідеальним для людей з алергіями або відчутливими до пилу і інших алергенів.",
-    thermoAshInteriorTextAndImageMainText10:
-      "Термоясене дерево є дуже гнучким матеріалом, який може бути використаний для різних приміщень та елементів інтер'єру.",
-    thermoAshInteriorTextAndImageMainText11: "Ось деякі з них:",
-    thermoAshInteriorTextAndImageMainText12:
-      "Підлога: Дерево добре підходить для підлогових покриттів, оскільки воно є міцним, стійким до зношування і має красивий зовнішній вигляд.",
-    thermoAshInteriorTextAndImageMainText13:
-      "Стіни і обробка: Термоясене дерево може бути використане для облицювання стін, створення декоративних панелей або відкритих балок, що додає інтер'єру теплоту та природність.",
-    thermoAshInteriorTextAndImageMainText14:
-      "Двері: Дерево часто використовується для виготовлення внутрішніх дверей, оскільки воно володіє міцністю, довговічністю і красивим зовнішнім виглядом.",
-    thermoAshInteriorTextAndImageMainText15:
-      "Декоративні елементи: Термоясене дерево може бути використане для виготовлення декоративних елементів, таких як рами для дзеркал, свічники, вази чи інші аксесуари, що додадуть інтер'єру стильності та затишку.",
+
     exoticFacadeMatherialFunction: "ФАСАДИ З ЕКЗОТИЧНОЇ ДЕРЕВИНИ",
     exoticFacadeTextAndImageMainText1:
       "Фасади з екзотичної деревини мають ряд переваг, які роблять їх популярними для використання в архітектурі та дизайні. Ось основні з них:",
@@ -699,6 +666,36 @@ const translations = {
       "Легкість у догляді: Зовнішні елементи з термодерева потребують менше обслуговування та ремонту, що зменшує витрати на догляд.",
     exclusivePiecesTextAndImageMainText13:
       "Завдяки цим перевагам, термодерево стає оптимальним вибором для створення довговічних і красивих інтер'єрів та екстер'єрів, які гармонійно поєднуються з природою та відповідають сучасним екологічним стандартам.",
+    thermoWoodInteriorMatherialFunction: "ІНТЕР’ЄРИ З ТЕРМОДЕРЕВА",
+    thermoWoodInteriorTextAndImageMainText1:
+      "Коли мова йде про термодерево для інтер'єру, переваги можуть включати:",
+    thermoWoodInteriorTextAndImageMainText2:
+      "Природність: термодерево має природну красу і теплий колір, що надасть вашому інтер'єру природний та затишний вигляд.",
+    thermoWoodInteriorTextAndImageMainText3:
+      "Міцність і довговічність: термодерево відоме своєю міцністю та стійкістю до деформацій, що робить його ідеальним вибором для меблів і підлоги.",
+    thermoWoodInteriorTextAndImageMainText4:
+      "Енергоефективність: термодерево має властивості теплої підлоги, яка допомагає зберігати тепло в кімнаті, що може зменшити витрати на опалення.",
+    thermoWoodInteriorTextAndImageMainText5:
+      "Екологічність: термодерево є екологічно чистим матеріалом, який не містить шкідливих речовин, що може бути важливо для здоров'я і комфорту в приміщенні.",
+    thermoWoodInteriorTextAndImageMainText6:
+      "Унікальність: кожен шматок термодерева має унікальні відтінки і візерунки, що дозволяє створити унікальний інтер'єр, який підкреслить ваш стиль.",
+    thermoWoodInteriorTextAndImageMainText7:
+      "Відсутність зазорів: термодерево добре витримує зміни температури та вологості, тому зменшується ризик появи зазорів між планками підлоги або спотворення меблів.",
+    thermoWoodInteriorTextAndImageMainText8:
+      "Легкість обробки: термодерево досить легко піддавати обробці, що дозволяє створити цікаві дизайнерські рішення і додати індивідуальний шарм вашому інтер'єру.",
+    thermoWoodInteriorTextAndImageMainText9:
+      "Відсутність алергенів: термодерево є гіпоалергенним матеріалом, що робить його ідеальним для людей з алергіями або відчутливими до пилу і інших алергенів.",
+    thermoWoodInteriorTextAndImageMainText10:
+      "Термодерево є дуже гнучким матеріалом, який може бути використаний для різних приміщень та елементів інтер'єру.",
+    thermoWoodInteriorTextAndImageMainText11: "Ось деякі з них: ",
+    thermoWoodInteriorTextAndImageMainText12:
+      "Підлога:  Дерево добре підходить для підлогових покриттів, оскільки воно є міцним, стійким до зношування і має красивий зовнішній вигляд.",
+    thermoWoodInteriorTextAndImageMainText13:
+      "Стіни і обробка: термодерево може бути використане для облицювання стін, створення декоративних панелей або відкритих балок, що додає інтер'єру теплоту та природність.",
+    thermoWoodInteriorTextAndImageMainText14:
+      "Двері: Дерево часто використовується для виготовлення внутрішніх дверей, оскільки воно володіє міцністю, довговічністю і красивим зовнішнім виглядом.",
+    thermoWoodInteriorTextAndImageMainText15:
+      "Декоративні елементи: термодерево може бути використане для виготовлення декоративних елементів, таких як рами для дзеркал, свічники, вази чи інші аксесуари, що додадуть інтер'єру стильності та затишку.",
   },
 };
 
