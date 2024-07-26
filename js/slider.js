@@ -60,9 +60,13 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   const sliderWrapper = document.querySelector(".slider-wrapper");
-  sliderWrapper.addEventListener("touchstart", handleTouchStart);
-  sliderWrapper.addEventListener("touchmove", handleTouchMove);
-  sliderWrapper.addEventListener("touchend", handleTouchEnd);
+  sliderWrapper.addEventListener("touchstart", handleTouchStart, {
+    passive: true,
+  });
+  sliderWrapper.addEventListener("touchmove", handleTouchMove, {
+    passive: false,
+  });
+  sliderWrapper.addEventListener("touchend", handleTouchEnd, { passive: true });
 
   updateSlider(currentIndex);
   startAutoSlide();
