@@ -965,6 +965,10 @@ li {
   flex: 1;
 }
 
+.one-image {
+  margin-top: 10px;
+}
+
 .image-and-text-text {
   flex: 1;
   margin-top: 0;
@@ -1183,7 +1187,7 @@ li {
   }
 
   .two-images {
-    margin-top: 40px;
+    margin-top: 10px;
     gap: 10px;
   }
 
@@ -1213,5 +1217,8 @@ li {
   .text-and-image-title,
   .image-and-text-title {
     font-size: 24px;
+  }
+  .footer {
+    margin-top: 50px;
   }
 }
