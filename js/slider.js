@@ -4,7 +4,9 @@ document.addEventListener("DOMContentLoaded", () => {
   let currentIndex = 0;
   let autoSlideInterval;
 
-  let startX, endX;
+  let startX = 0;
+  let endX = 0;
+  let isSwiping = false;
 
   const updateSlider = (index) => {
     const sliderWrapper = document.querySelector(".slider-wrapper");
@@ -26,14 +28,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const handleTouchStart = (e) => {
     startX = e.touches[0].clientX;
+    isSwiping = true;
     stopAutoSlide();
   };
 
   const handleTouchMove = (e) => {
+    if (!isSwiping) return;
     endX = e.touches[0].clientX;
+    e.preventDefault();
   };
 
   const handleTouchEnd = () => {
+    if (!isSwiping) return;
+    isSwiping = false;
     if (startX > endX + 50) {
       currentIndex = (currentIndex + 1) % slides.length;
     } else if (startX < endX - 50) {
