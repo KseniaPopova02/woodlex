@@ -235,7 +235,7 @@ const translations = {
     thermoPineTerraceTextAndImageMainText8:
       "Ease of processing: Thermo-pine wood is easy to process and can be painted or oiled, allowing you to create a custom design for your terrace.",
     thermoPineTerraceTextAndImageReverseTitle:
-      "PROPER CARE - SYNONYM OF LONGEVITY",
+      "CORRECT INSTALLATION - SYNONYM OF LONGEVITY",
     thermoPineTerraceTextAndImageMainText9:
       "Thermo-pine wood is known for its high durability and longevity, making it a popular choice for terraces. The lifespan of a thermo-pine terrace depends on several factors, such as the quality of the wood itself, the quality of installation, and maintenance.",
     thermoPineTerraceTextAndImageMainText10:

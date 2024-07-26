@@ -809,6 +809,10 @@ img {
   object-fit: cover;
 }
 
+.contact-us-action-text {
+  font-size: 15px;
+}
+
 .text-and-image-title {
   margin-top: 0;
   font-size: 32px;
