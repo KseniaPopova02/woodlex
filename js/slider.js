@@ -50,6 +50,10 @@ document.addEventListener("DOMContentLoaded", () => {
     startAutoSlide();
   };
 
+  const handleTouchCancel = () => {
+    isSwiping = false;
+  };
+
   dots.forEach((dot, index) => {
     dot.addEventListener("click", () => {
       stopAutoSlide();
@@ -67,6 +71,7 @@ document.addEventListener("DOMContentLoaded", () => {
     passive: false,
   });
   sliderWrapper.addEventListener("touchend", handleTouchEnd, { passive: true });
+  sliderWrapper.addEventListener("touchcancel", handleTouchCancel);
 
   updateSlider(currentIndex);
   startAutoSlide();
