@@ -371,25 +371,24 @@ const translations = {
       "Prestige and status: The use of exotic wood adds prestige to any project, emphasizing the status and high level of taste of the owner.",
     exoticFillingTextAndImageMainText10:
       "Exotic wood cladding is a reliable and aesthetically pleasing choice, combining natural beauty with excellent technical characteristics.",
-    exoticTerraceMatherialFunction: "EXOTIC TERRACES",
+    exoticTerraceMatherialFunction: "EXOTIC WOODEN TERRACES",
     exoticTerraceTextAndImageMainText1:
-      "The desire to create comfort and coziness in the home makes thermopines a popular choice for many people to make their interior more functional and stylish.",
-    exoticTerraceTextAndImageMainText2:
-      "Thermopines come in various styles, shapes, and colors, so they can be a great addition to the interior. They can serve as both a functional item and a decorative accent.",
+      "Terraces made of exotic wood are becoming increasingly popular due to the numerous advantages they offer.",
+    exoticTerraceTextAndImageMainText2: "Here are some of them:",
     exoticTerraceTextAndImageMainText3:
-      "The material is resistant to moisture, precipitation, high mechanical loads, and despite absorbing moisture, it dries quickly and does not deform.",
+      "Durability: Exotic wood is generally very resistant to rot, pests, and weather conditions, making it an excellent choice for outdoor structures.",
     exoticTerraceTextAndImageMainText4:
-      "Thermopine decoration in the interior can be both a functional and decorative element. Here are some ideas on how you can use thermopine in the interior:",
+      "Aesthetics: Exotic wood terraces have a natural, attractive appearance with unique textures and colors, adding elegance and charm.",
     exoticTerraceTextAndImageMainText5:
-      "Windowsill or table: Place a stylish thermopine on the windowsill or table as a decorative element.",
+      "Strength: This wood is often denser and harder compared to local species, providing high resistance to wear and mechanical damage.",
     exoticTerraceTextAndImageMainText6:
-      "Cabinet or shelf: Place thermopine in a prominent place on the cabinet or shelf to add aesthetics to the space.",
+      "Natural resistance: Some types of exotic wood have natural oils and resins that give them resistance to moisture and insects.",
     exoticTerraceTextAndImageMainText7:
-      "Kitchen table: Use thermopine as part of the decor on the kitchen table to create a cozy atmosphere.",
+      "Eco-friendliness: With responsible logging and certification, using exotic wood can be an environmentally safe option, contributing to forest conservation and biodiversity.",
     exoticTerraceTextAndImageMainText8:
-      "Bedside or reading nook: Place thermopine next to the bed or in the reading nook to have a drink always at hand.",
+      "Temperature stability: Exotic wood has good insulation properties, helping to maintain a comfortable surface temperature in any weather.",
     exoticTerraceTextAndImageMainText9:
-      "These are just a few ideas on how to integrate thermopine into the interior. If you have specific wishes or ideas, our team is ready to implement them with quality.",
+      "Using exotic wood for terraces not only provides functional benefits but also highlights the individuality and style of your home.",
     exclusivePiecesMatherialFunction: "EXCLUSIVE PIECES",
     exclusivePiecesTextAndImageMainText1:
       "Interior and exterior elements made of thermowood have many advantages, making them increasingly popular in construction and design.",
@@ -565,19 +564,19 @@ const translations = {
       "Зверніть увагу, що фасад з термососни також може покращити екологічні показники будівлі, забезпечуючи більш енергоефективне використання ресурсів. Крім того, він може сприяти підвищенню комфорту приміщень, забезпечуючи стабільну температуру всередині приміщення та захищаючи від шуму та вітру. Матеріали для фасаду з термососни також можуть бути стійкими до впливу вологи та ультрафіолету, що забезпечує тривалий та надійний захист будівлі.",
     thermoAshFacadeMatherialFunction: "ФАСАДИ З ТЕРМОЯСЕНА",
     thermoAshFacadeTextAndImageMainText1:
-      "Фасад з термососни має кілька переваг, які роблять його привабливим і популярним вибором для зовнішнього облицювання будинків.",
+      "Фасад з термоясену має декілька переваг, які роблять його популярним варіантом для зовнішнього облицювання будівель:",
     thermoAshFacadeTextAndImageMainText2:
-      "Стійкість до погодних умов: Термососна деревина виготовляється шляхом термічної обробки, що робить її більш стійкою до погодних умов, таких як дощ, сонце, сніг та вологість. Це дозволяє зберігати вигляд фасаду протягом тривалого часу.",
+      "Естетичний вигляд: Термоясен має природний дерев'яний вигляд, який додає вашій будівлі тепла і затишку. Він доступний в різних кольорах і текстурах, що дозволяє створити унікальний дизайн фасаду.",
     thermoAshFacadeTextAndImageMainText3:
-      "Міцність та довговічність: Деревина відома своєю міцністю та довговічністю, що робить її надійним матеріалом для фасаду, який прослужить вам довгі роки без необхідності в серйозних ремонтах.",
+      "Довговічність: Термоясеневий фасад відмінно захищає будівлю від атмосферних впливів, ультрафіолетових променів, вологості та інших шкідливих факторів. Це забезпечує тривалий термін служби фасаду без необхідності в серйозному обслуговуванні.",
     thermoAshFacadeTextAndImageMainText4:
-      "Естетичний вигляд: Термососна має привабливу природну текстуру та колір, які додають вашому будинку вишуканість та теплоту. Вона надає фасаду природного та затишного вигляду.",
+      "Екологічність: Термоясен є природним матеріалом, який не містить шкідливих речовин. Використання його для облицювання фасаду сприяє створенню здорового та екологічно чистого середовища.",
     thermoAshFacadeTextAndImageMainText5:
-      "Екологічно чистий матеріал: Вона є природним матеріалом, екологічно чистим і дружнім до навколишнього середовища, що дозволяє створити екологічно безпечний та здоровий житловий простір.",
+      "Мінімальний догляд: Термоясеневий фасад легко доглядати. Достатньо просто протирати його від часу до часу, щоб зберегти вигляд як новий. Не потрібно фарбувати або лакувати фасад.",
     thermoAshFacadeTextAndImageMainText6:
-      "Можливості дизайну: Деревина легко обробляється та має гнучкість у формуванні, що відкриває широкі можливості для різноманітних дизайнерських елементів на фасаді, таких як панелі, облицювання та декоративні деталі.",
+      "Висока міцність і стійкість: Термоясен відомий своєю високою міцністю і стійкістю до механічних пошкоджень. Це робить його відмінним вибором для фасадів будівель, особливо в умовах високого навантаження.",
     thermoAshFacadeTextAndImageMainText7:
-      "Теплоізоляційні властивості: Термососна має добрі теплоізоляційні властивості, що дозволяє підвищити енергоефективність будинку та зменшити витрати на опалення.",
+      "Загалом, термоясеневий фасад є стильним, довговічним і екологічно чистим варіантом для облицювання будівель, який може вплинути на зовнішній вигляд та якість вашого житла або офісу.",
     thermoAshInteriorMatherialFunction: "ІНТЕР’ЄР З ТЕРМОЯСЕНА",
     thermoAshInteriorTextAndImageReverseTitle:
       "ПРАВИЛЬНИЙ ДОГЛЯД - СИНОНІМ ДОВГОВІЧНОСТІ",
@@ -656,23 +655,22 @@ const translations = {
       "Підшивка з екзотичної деревини – це надійний та естетично привабливий вибір, що поєднує в собі природну красу та відмінні технічні характеристики.",
     exoticTerraceMatherialFunction: "ТЕРАСИ З ЕКЗОТИЧНОЇ ДЕРЕВИНИ",
     exoticTerraceTextAndImageMainText1:
-      "Бажання створити комфорт і затишок в оселі роблять термососни популярними вибором для багатьох людей, щоб зробити їхній інтер'єр більш функціональним та стильним.",
-    exoticTerraceTextAndImageMainText2:
-      "Термососни існують у різних стилях, формах та кольорах, тому вони можуть бути чудовим доповненням до інтер'єру. Вони можуть виступати як функціональний предмет, так і декоративний акцент.",
+      "Тераси з екзотичної деревини стають дедалі популярнішими завдяки численним перевагам, які вони надають.",
+    exoticTerraceTextAndImageMainText2: "Ось деякі з них:",
     exoticTerraceTextAndImageMainText3:
-      "Матеріал має стійкість до вологи, опадів, високим механічним навантаженням, і, незважаючи на те, що все ж таки вбирає вологу - швидко висихає і не деформується.",
+      "Довговічність: Екзотична деревина, як правило, дуже стійка до гниття, шкідників і погодних умов, що робить її відмінним вибором для зовнішніх конструкцій.",
     exoticTerraceTextAndImageMainText4:
-      "Оформлення термососни в інтер'єрі може бути як функціональним, так і декоративним елементом. Ось кілька ідей, як ви можете використовувати термососни в інтер'єрі:",
+      "Естетика: Тераси з екзотичної деревини мають природний, привабливий вигляд з унікальними текстурами і кольорами, що додає їм елегантності і шарму.",
     exoticTerraceTextAndImageMainText5:
-      "Підвіконня або стіл: Розмістіть стильну термососну на підвіконні або на столі як декоративний елемент.",
+      "Міцність: Така деревина часто більш щільна і тверда порівняно з місцевими породами, що забезпечує високу стійкість до зношування і механічних пошкоджень.",
     exoticTerraceTextAndImageMainText6:
-      "Шафа або полиця: Розмістіть термососну на видному місці на шафі або полиці, щоб додати естетику до простору.",
+      "Природна стійкість: Деякі види екзотичної деревини мають природні олії і смоли, які надають їм стійкості до вологи і комах.",
     exoticTerraceTextAndImageMainText7:
-      "Кухонний стіл: Використовуйте термососну як часть декору на кухонному столі, щоб створити затишну атмосферу.",
+      "Екологічність: За умови відповідальної вирубки і сертифікації, використання екзотичної деревини може бути екологічно безпечним варіантом, сприяючи збереженню лісів і біорізноманіття.",
     exoticTerraceTextAndImageMainText8:
-      "Ліжко або куточок для читання: Помістіть термососну поруч з ліжком або у куточку для читання, щоб мати напій завжди під рукою.",
+      "Температурна стабільність: Екзотична деревина має добрі ізоляційні властивості, що допомагає підтримувати комфортну температуру поверхні в будь-яку погоду.",
     exoticTerraceTextAndImageMainText9:
-      "Це лише декілька ідей про те, як можна інтегрувати термососну в інтер'єр. Якщо у вас є конкретні побажання або ідеї, наша команда готова якісно їх реалізувати.",
+      "Використання екзотичної деревини для терас надає не тільки функціональні переваги, але й підкреслює індивідуальність та стиль вашого будинку.",
     exclusivePiecesMatherialFunction: "ЕКСКЛЮЗИВНІ ВИРОБИ",
     exclusivePiecesTextAndImageMainText1:
       "Елементи інтер'єру та екстер'єру з термодерева мають безліч переваг, завдяки яким вони стають все більш популярними в будівництві та дизайні.",
