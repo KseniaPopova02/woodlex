@@ -751,7 +751,7 @@ img {
 }
 
 .exotic-terrace {
-  background: url("../assets/images/exotic-terrace-bg.png") center center;
+  background: url("../assets/images/exotic-terrace-bg.png");
   background-size: cover;
   display: flex;
   justify-content: space-between;
