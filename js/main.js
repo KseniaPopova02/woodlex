@@ -311,13 +311,13 @@ const translations = {
       "Environmental friendliness: Using exotic wood from certified plantations or from secondary use can be an environmentally responsible choice. Wood is a renewable resource, and with proper management, its use can be sustainable.",
     exoticFacadeTextAndImageMainText6:
       "Thermal insulation properties: Wood has excellent thermal insulation properties, which helps maintain optimal indoor temperature and reduce heating and cooling costs.",
-    exoticFacadeImageAndTextTitle: "MULTIFUNCTIONALITY AND EASY INSTALLATION",
-    exoticFacadeTextAndImageMainText7:
-      "Thermoash paneling can be used for decorating various types of rooms, making it a versatile choice for any design projects.",
-    exoticFacadeTextAndImageMainText8:
-      "Installation can be faster compared to other types of paneling, saving time during renovation or construction, as the material is light and easy to cut and install.",
-    exoticFacadeTextAndImageMainText9:
-      "Thermoash material can be painted or treated to achieve the desired design and color. Also, using such paneling can improve the energy efficiency of the room by retaining heat and reducing heating costs.",
+    exoticFacadeImageAndTextTitle: "PRESTIGE AND EXCLUSIVITY",
+    exoticFacadeImageAndTextMainText7:
+      "Versatility: Exotic wood can be used in various architectural styles, from traditional to modern, making it a versatile material for designers and architects.",
+    exoticFacadeImageAndTextMainText8:
+      "Prestige and exclusivity: The use of exotic wood is often associated with luxury and high status, adding prestige to the building and increasing its value.",
+    exoticFacadeImageAndTextMainText9:
+      "Using facades made of exotic wood can be an excellent choice for those who value quality, durability, and aesthetic appeal in their buildings.",
     exoticFillingMatherialFunction: "EXOTIC FILLING",
     exoticFillingTextAndImageMainText1:
       "Exotic wood cladding has several important advantages, making it a popular choice for exterior and interior decoration of buildings. Here are the main benefits:",
@@ -592,14 +592,13 @@ const translations = {
       "Екологічність: Використання екзотичної деревини з сертифікованих плантацій або з вторинного використання може бути екологічно відповідальним вибором. Деревина є відновлюваним ресурсом, і за умови правильного управління її використання може бути сталим.",
     exoticFacadeTextAndImageMainText6:
       "Теплоізоляційні властивості: Деревина має відмінні теплоізоляційні властивості, що допомагає зберігати оптимальну температуру всередині будівлі та знижувати витрати на опалення та кондиціювання.",
-    exoticFacadeImageAndTextTitle:
-      "БАГАТОФУНКЦІОНАЛЬНІСТЬ ТА КОМФОРТНИЙ МОНТАЖ",
-    exoticFacadeTextAndImageMainText7:
-      "Термояснева підшивка може бути використана для оздоблення різних типів приміщень, що робить її універсальним вибором для будь-яких дизайнерських проектів",
-    exoticFacadeTextAndImageMainText8:
-      "Установка може бути швидшою порівняно з іншими видами підшивки, що зекономить час у процесі ремонту чи будівництва, оскільки матеріал легкий і має зручну форму для різання та монтажу.",
-    exoticFacadeTextAndImageMainText9:
-      "Термоясневий матеріал може бути фарбований або оброблений для досягнення бажаного дизайну та кольору. Також використання подібної підшивки може покращити енергоефективність приміщення шляхом збереження тепла і зниження витрат на опалення.",
+    exoticFacadeImageAndTextTitle: "ПРЕСТИЖ ТА ЕКСКЛЮЗИВНІСТЬ",
+    exoticFacadeImageAndTextMainText7:
+      "Універсальність: Екзотична деревина може бути використана в різних стилях архітектури, від традиційного до сучасного, що робить її універсальним матеріалом для дизайнерів та архітекторів.",
+    exoticFacadeImageAndTextMainText8:
+      "Престиж та ексклюзивність: Використання екзотичної деревини часто асоціюється з розкішшю та високим статусом, що додає престижу будівлі та підвищує її вартість.",
+    exoticFacadeImageAndTextMainText9:
+      "Використання фасадів з екзотичної деревини може бути відмінним вибором для тих, хто цінує якість, довговічність та естетичну привабливість своїх будівель.",
     exoticFillingMatherialFunction: "ПІДШИВКА З ЕКЗОТИЧНОЇ ДЕРЕВИНИ",
     exoticFillingTextAndImageMainText1:
       "Підшивка з екзотичної деревини має кілька важливих переваг, що робить її популярним вибором для зовнішнього та внутрішнього оформлення будівель. Ось основні переваги:",
