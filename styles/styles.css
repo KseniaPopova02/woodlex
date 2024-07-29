@@ -1127,7 +1127,7 @@ li {
 @media (max-width: 778px) {
   .our-partners-wrapper {
     flex-direction: column-reverse;
-    align-items: flex-start;
+    align-items: center;
   }
   .text-and-image-title,
   .image-and-text-title {
