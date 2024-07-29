@@ -24,6 +24,11 @@ document.addEventListener("DOMContentLoaded", (event) => {
       }, 10);
     }
   });
+  const savedLang = localStorage.getItem("selectedLanguage") || "UA";
+  changeLanguage(savedLang);
+
+  document.getElementById("language-selector").childNodes[0].nodeValue =
+    savedLang + " ";
 });
 
 document.addEventListener("DOMContentLoaded", (event) => {
@@ -100,6 +105,7 @@ document.querySelectorAll(".dropdown div").forEach(function (element) {
     this.parentElement.style.display = "none";
 
     changeLanguage(selectedLang);
+    localStorage.setItem("selectedLanguage", selectedLang);
   });
 });
 
@@ -725,6 +731,8 @@ function changeLanguage(lang) {
 
     element.setAttribute("placeholder", translations[lang][key]);
   });
+  const languageSelector = document.getElementById("language-selector");
+  languageSelector.childNodes[0].nodeValue = lang + " ";
 }
 
 document.addEventListener("DOMContentLoaded", (event) => {
