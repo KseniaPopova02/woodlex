@@ -167,7 +167,7 @@ const translations = {
     termoyasen: "Thermo Ash",
     ekzotika: "Exotic",
     fasadi: "Facades",
-    pidshivka: "Filling",
+    pidshivka: "Cladding",
     interyeri: "Interiors",
     portfolio: "Portfolio",
     eksklyuzivniVirobi: "Exclusive Products",
@@ -176,9 +176,9 @@ const translations = {
     emailPlaceholder: "E-mail",
     proNas: "ABOUT US",
     proNas1:
-      "We firmly believe that ergonomics, plenty of light, and simplicity should come first in interior design - nothing unnecessary.",
+      "We firmly believe that ergonomics, plenty of light and simplicity should come first in interior design - nothing unnecessary.",
     proNas2:
-      "Woodlex Group began its activities in 2011. Since then, we have completed more than 200 projects. Today, we provide a full range of services from architectural design to comprehensive installation. Thanks to extensive experience, dozens of mistakes, and hundreds of completed projects, we can offer the right solutions even for the boldest architectural ideas. And the proof of this is the extensive warranty obligations on our products.",
+      "Woodlex Group began its activities in 2011. Since then, we have completed more than 200 projects. Today, we provide a full range of services from architectural design to comprehensive installation. Thanks to extensive experience, dozens of mistakes and hundreds of completed projects, we can offer the right solutions even for the boldest architectural ideas. And the proof of this is the extensive warranty obligations on our products.",
     proNas3:
       "We use only natural materials. We understand that walking barefoot on your terrace is more enjoyable when you step on a natural surface. The temperature of the board, the aroma, the external aesthetics - all these elements create impressions and mood. And we are responsible for that.",
     proces: "PROCESS",
@@ -186,12 +186,12 @@ const translations = {
     NashiPartneri: "OUR PARTNERS",
     ZKimPrazuemo: "WHO WE WORK WITH",
     aboutUsTitle: "Our guiding principle is «functionalism and space».",
-    thermoAshFillingMatherialFunction: "THERMO-ASH FILLING",
+    thermoAshFillingMatherialFunction: "THERMO-ASH CLADDING",
     contactUActionText: "PLEASE, CONTACT US FOR ALL DETAILS",
     thermoAshFillingTextAndImageTitle:
       "ECO-FRIENDLINESS AND DURABILITY OF THE MATERIAL",
     thermoAshFillingTextAndImageMainText1:
-      "Thermo-ash filling is a very popular choice among many of our clients. Why is that? Because thermo-ash has many advantages and has proven itself well over many years of use.",
+      "Thermo-ash cladding is a very popular choice among many of our clients. Why is that? Because thermo-ash has many advantages and has proven itself well over many years of use.",
     thermoAshFillingTextAndImageMainText2:
       "The main advantages of the material:",
     thermoAshFillingTextAndImageMainText3:
@@ -201,7 +201,7 @@ const translations = {
     thermoAshFillingTextAndImageMainText5:
       "Durability: Thermo-ash holds up well, has high resistance to atmospheric conditions and mechanical damage.",
     thermoAshFillingTextAndImageMainText6:
-      "Aesthetics: Thermo-ash filling has a natural wooden look, adding naturalness and comfort to the interior.",
+      "Aesthetics: Thermo-ash cladding has a natural wooden look, adding naturalness and comfort to the interior.",
     thermoAshFillingTextAndImageMainText7:
       "Sound insulation: Thermo-ash absorbs sounds well, allowing for a comfortable acoustic environment in the room.",
     thermoAshFillingTextAndImageMainText8:
@@ -211,20 +211,20 @@ const translations = {
     thermoAshFillingTextAndImageMainText10:
       "High antiseptic properties: Thermo-ash has excellent antiseptic properties, allowing to maintain the health of the room.",
     thermoAshFillingTextAndImageMainText11:
-      "Choosing thermo-ash filling can be an excellent solution for creating a comfortable and aesthetic interior in your room.",
+      "Choosing thermo-ash cladding can be an excellent solution for creating a comfortable and aesthetic interior in your room.",
     thermoAshFillingImageAndTextTitle:
       "MULTIFUNCTIONALITY AND COMFORTABLE INSTALLATION",
     thermoAshFillingImageAndTextMainText1:
-      "Thermo-ash filling can be used for finishing various types of rooms, making it a versatile choice for any design projects.",
+      "Thermo-ash cladding can be used for finishing various types of rooms, making it a versatile choice for any design projects.",
     thermoAshFillingImageAndTextMainText2:
-      "Installation can be faster compared to other types of filling, saving time during renovation or construction, as the material is lightweight and has a convenient shape for cutting and installation.",
+      "Installation can be faster compared to other types of cladding, saving time during renovation or construction, as the material is lightweight and has a convenient shape for cutting and installation.",
     thermoAshFillingImageAndTextMainText3:
-      "Thermo-ash material can be painted or treated to achieve the desired design and color. Also, the use of such filling can improve the energy efficiency of the room by retaining heat and reducing heating costs.",
-    thermoPineFillingMatherialFunction: "THERMO-PINE FILLING",
+      "Thermo-ash material can be painted or treated to achieve the desired design and color. Also, the use of such cladding can improve the energy efficiency of the room by retaining heat and reducing heating costs.",
+    thermoPineFillingMatherialFunction: "THERMO-PINE CLADDING",
     thermoPineFillingTextAndImageTitle:
       "FEATURES AND ADVANTAGES OF THE MATERIAL",
     thermoPineFillingTextAndImageMainText1:
-      "Thermo-pine cladding has several advantages, including:",
+      "Thermo-pine cladding has several advantages including:",
     thermoPineFillingTextAndImageMainText2:
       "Moisture resistance: Thermo-pine has high moisture resistance, making it an ideal material for finishing rooms with high humidity, such as bathrooms or kitchens.",
     thermoPineFillingTextAndImageMainText3:
@@ -232,21 +232,21 @@ const translations = {
     thermoPineFillingTextAndImageMainText4:
       "Eco-friendliness: Thermo-pine is a natural wood that does not contain harmful substances and is an environmentally friendly material.",
     thermoPineFillingTextAndImageMainText5:
-      "Aesthetic appearance: Thermo-pine has natural beauty, a warm color, and texture that adds coziness and naturalness to the interior of the room.",
+      "Aesthetic appearance: Thermo-pine has natural beauty, a warm color and texture that adds coziness and naturalness to the interior of the room.",
     thermoPineFillingTextAndImageMainText6:
       "Strength: Thermo-pine is a fairly strong wood that withstands mechanical damage and wear.",
     thermoPineFillingTextAndImageMainText7:
-      "Thermo-pine cladding is an excellent choice for those who value quality, aesthetics, and an eco-friendly approach to interior decoration.",
+      "Thermo-pine cladding is an excellent choice for those who value quality, aesthetics and an eco-friendly approach to interior decoration.",
     thermoAshTerraceMatherialFunction: "THERMO-ASH TERRACE",
     materialConAndPros: "FEATURES AND ADVANTAGES OF THE MATERIAL",
     thermoAshTerraceTextAndImageMainText1:
       "Today, a terrace made of high-quality thermo-ash is considered the best choice for both private and commercial decoration.",
     thermoAshTerraceTextAndImageMainText2:
-      "Sufficient strength, noble texture, and durability make thermo-ash an ideal option for covering any exploited surface.",
+      "Sufficient strength, noble texture and durability make thermo-ash an ideal option for covering any exploited surface.",
     thermoAshTerraceTextAndImageMainText3:
       "The thermo-ash terrace has several advantages:",
     thermoAshTerraceTextAndImageMainText4:
-      "Durability: The coating perfectly protects the surface from weather, UV rays, friction, and other harmful factors. This allows you to maintain the aesthetic appearance of the terrace for a long time.",
+      "Durability: The coating perfectly protects the surface from weather, UV rays, friction and other harmful factors. This allows you to maintain the aesthetic appearance of the terrace for a long time.",
     thermoAshTerraceTextAndImageMainText5:
       "Minimal maintenance: Thermo-ash terraces are easy to maintain. Simply wiping them down from time to time is enough to keep them looking like new. No need to paint or varnish them.",
     thermoAshTerraceTextAndImageMainText6:
@@ -266,7 +266,7 @@ const translations = {
     thermoPineTerraceTextAndImageMainText3:
       "Strength and durability: Thermo-pine wood is known for its strength and wear resistance, making it an ideal material for terraces. It withstands external influences, including weather conditions and wear.",
     thermoPineTerraceTextAndImageMainText4:
-      "Resistance to rot and pests: Thermo-pine wood is known for its natural resistance to rot, pests, and mold, allowing it to last a long time without special maintenance.",
+      "Resistance to rot and pests: Thermo-pine wood is known for its natural resistance to rot, pests and mold, allowing it to last a long time without special maintenance.",
     thermoPineTerraceTextAndImageMainText5:
       "Moisture resistance: Thermo-pine wood has high moisture resistance, making it an ideal choice for terraces where the material will be exposed to rain and moisture.",
     thermoPineTerraceTextAndImageMainText6:
@@ -278,18 +278,18 @@ const translations = {
     thermoPineTerraceTextAndImageReverseTitle:
       "CORRECT INSTALLATION - SYNONYM OF LONGEVITY",
     thermoPineTerraceTextAndImageMainText9:
-      "Thermo-pine wood is known for its high durability and longevity, making it a popular choice for terraces. The lifespan of a thermo-pine terrace depends on several factors, such as the quality of the wood itself, the quality of installation, and maintenance.",
+      "Thermo-pine wood is known for its high durability and longevity, making it a popular choice for terraces. The lifespan of a thermo-pine terrace depends on several factors, such as the quality of the wood itself, the quality of installation and maintenance.",
     thermoPineTerraceTextAndImageMainText10:
       "Typically, a thermo-pine terrace can last from 15 to 25 years or even longer with proper care.",
     thermoPineTerraceTextAndImageMainText11:
-      "It is recommended to regularly renew the protective layer on the terrace by oiling or painting, regularly clean it from dirt, and inspect the terrace for damage. This will help keep the wood in good condition and extend its lifespan.",
+      "It is recommended to regularly renew the protective layer on the terrace by oiling or painting, regularly clean it from dirt and inspect the terrace for damage. This will help keep the wood in good condition and extend its lifespan.",
     thermoPineTerraceTextAndImageMainText12:
       "By following these tips and providing the wood with proper care, a thermo-pine terrace can last you for many years, providing beauty and comfort to your outdoor space.",
     thermoPineFacadeMatherialFunction: "THERMO-PINE FACADE",
     thermoPineFacadeTextAndImageMainText1:
       "A thermo-pine facade has several advantages that make it an attractive and popular choice for exterior cladding of houses.",
     thermoPineFacadeTextAndImageMainText2:
-      "Weather resistance: Thermo-pine wood is processed through thermal treatment, making it more resistant to weather conditions such as rain, sun, snow, and humidity. This helps maintain the appearance of the facade for a long time.",
+      "Weather resistance: Thermo-pine wood is processed through thermal treatment, making it more resistant to weather conditions such as rain, sun, snow and humidity. This helps maintain the appearance of the facade for a long time.",
     thermoPineFacadeTextAndImageMainText3:
       "Strength and durability: The wood is known for its strength and durability, making it a reliable material for the facade that will last for many years without needing major repairs.",
     thermoPineFacadeTextAndImageMainText4:
@@ -297,18 +297,18 @@ const translations = {
     thermoPineFacadeTextAndImageMainText5:
       "Eco-friendly material: It is a natural, eco-friendly material that is safe for the environment, creating a sustainable and healthy living space.",
     thermoPineFacadeTextAndImageMainText6:
-      "Design possibilities: The wood is easy to process and flexible in shaping, providing ample possibilities for various design elements on the facade, such as panels, cladding, and decorative details.",
+      "Design possibilities: The wood is easy to process and flexible in shaping, providing ample possibilities for various design elements on the facade, such as panels, cladding and decorative details.",
     thermoPineFacadeTextAndImageMainText7:
       "Thermal insulation properties: Thermo-pine has good thermal insulation properties, which helps increase the energy efficiency of the house and reduce heating costs.",
     thermoPineFacadeTextAndImageMainText8:
-      "A thermo-pine facade offers several advantages, such as improving the building's thermal insulation, protecting against temperature fluctuations, and reducing energy costs for heating and cooling. It can also provide resistance to weathering, enhance the building's appearance, and extend the facade's lifespan.",
+      "A thermo-pine facade offers several advantages, such as improving the building's thermal insulation, protecting against temperature fluctuations and reducing energy costs for heating and cooling. It can also provide resistance to weathering, enhance the building's appearance and extend the facade's lifespan.",
     thermoPineFacadeTextAndImageMainText9:
       "Note that a thermo-pine facade can also improve the building's ecological performance, ensuring more efficient use of resources. Additionally, it can enhance indoor comfort by maintaining a stable temperature and protecting against noise and wind. Thermo-pine facade materials are also resistant to moisture and UV exposure, providing long-lasting and reliable protection for the building.",
     thermoPineFacadeMatherialFunction: "THERMO-PINE FACADE",
     thermoPineFacadeTextAndImageMainText1:
       "A thermo-pine facade has several advantages that make it an attractive and popular choice for exterior cladding of houses.",
     thermoPineFacadeTextAndImageMainText2:
-      "Weather resistance: Thermo-pine wood is processed through thermal treatment, making it more resistant to weather conditions such as rain, sun, snow, and humidity. This helps maintain the appearance of the facade for a long time.",
+      "Weather resistance: Thermo-pine wood is processed through thermal treatment, making it more resistant to weather conditions such as rain, sun, snow and humidity. This helps maintain the appearance of the facade for a long time.",
     thermoPineFacadeTextAndImageMainText3:
       "Strength and durability: The wood is known for its strength and durability, making it a reliable material for the facade that will last for many years without needing major repairs.",
     thermoPineFacadeTextAndImageMainText4:
@@ -316,18 +316,18 @@ const translations = {
     thermoPineFacadeTextAndImageMainText5:
       "Eco-friendly material: It is a natural, eco-friendly material that is safe for the environment, creating a sustainable and healthy living space.",
     thermoPineFacadeTextAndImageMainText6:
-      "Design possibilities: The wood is easy to process and flexible in shaping, providing ample possibilities for various design elements on the facade, such as panels, cladding, and decorative details.",
+      "Design possibilities: The wood is easy to process and flexible in shaping, providing ample possibilities for various design elements on the facade, such as panels, cladding and decorative details.",
     thermoPineFacadeTextAndImageMainText7:
       "Thermal insulation properties: Thermo-pine has good thermal insulation properties, which helps increase the energy efficiency of the house and reduce heating costs.",
     thermoPineFacadeTextAndImageMainText8:
-      "A thermo-pine facade offers several advantages, such as improving the building's thermal insulation, protecting against temperature fluctuations, and reducing energy costs for heating and cooling. It can also provide resistance to weathering, enhance the building's appearance, and extend the facade's lifespan.",
+      "A thermo-pine facade offers several advantages, such as improving the building's thermal insulation, protecting against temperature fluctuations and reducing energy costs for heating and cooling. It can also provide resistance to weathering, enhance the building's appearance and extend the facade's lifespan.",
     thermoPineFacadeTextAndImageMainText9:
       "Note that a thermo-pine facade can also improve the building's ecological performance, ensuring more efficient use of resources. Additionally, it can enhance indoor comfort by maintaining a stable temperature and protecting against noise and wind. Thermo-pine facade materials are also resistant to moisture and UV exposure, providing long-lasting and reliable protection for the building.",
     thermoAshFacadeMatherialFunction: "THERMO-ASH FACADE",
     thermoAshFacadeTextAndImageMainText1:
       "A thermo-ash facade has several advantages that make it an attractive and popular choice for exterior cladding of houses.",
     thermoAshFacadeTextAndImageMainText2:
-      "Weather resistance: Thermo-ash wood is processed through thermal treatment, making it more resistant to weather conditions such as rain, sun, snow, and humidity. This helps maintain the appearance of the facade for a long time.",
+      "Weather resistance: Thermo-ash wood is processed through thermal treatment, making it more resistant to weather conditions such as rain, sun, snow and humidity. This helps maintain the appearance of the facade for a long time.",
     thermoAshFacadeTextAndImageMainText3:
       "Strength and durability: The wood is known for its strength and durability, making it a reliable material for the facade that will last for many years without needing major repairs.",
     thermoAshFacadeTextAndImageMainText4:
@@ -335,7 +335,7 @@ const translations = {
     thermoAshFacadeTextAndImageMainText5:
       "Eco-friendly material: It is a natural, eco-friendly material that is safe for the environment, creating a sustainable and healthy living space.",
     thermoAshFacadeTextAndImageMainText6:
-      "Design possibilities: The wood is easy to process and flexible in shaping, providing ample possibilities for various design elements on the facade, such as panels, cladding, and decorative details.",
+      "Design possibilities: The wood is easy to process and flexible in shaping, providing ample possibilities for various design elements on the facade, such as panels, cladding and decorative details.",
     thermoAshFacadeTextAndImageMainText7:
       "Thermal insulation properties: Thermo-ash has good thermal insulation properties, which helps increase the energy efficiency of the house and reduce heating costs.",
 
@@ -345,11 +345,11 @@ const translations = {
     exoticFacadeTextAndImageMainText2:
       "Aesthetic appeal: Exotic wood has a unique texture and color that give the building a special charm and elegance. Such facades can look luxurious and original, standing out against standard materials.",
     exoticFacadeTextAndImageMainText3:
-      "Durability: Many types of exotic wood, such as teak, ipe, mahogany, are known for their high resistance to external factors such as moisture, solar radiation, and pests. This makes them durable and reliable materials for facades.",
+      "Durability: Many types of exotic wood, such as teak, ipe, mahogany, are known for their high resistance to external factors such as moisture, solar radiation and pests. This makes them durable and reliable materials for facades.",
     exoticFacadeTextAndImageMainText4:
-      "Rot and pest resistance: Thermopine wood is known for its natural resistance to rot, pests, and mold, which allows it to last a long time without special maintenance.",
+      "Rot and pest resistance: Thermopine wood is known for its natural resistance to rot, pests and mold, which allows it to last a long time without special maintenance.",
     exoticFacadeTextAndImageMainText5:
-      "Environmental friendliness: Using exotic wood from certified plantations or from secondary use can be an environmentally responsible choice. Wood is a renewable resource, and with proper management, its use can be sustainable.",
+      "Environmental friendliness: Using exotic wood from certified plantations or from secondary use can be an environmentally responsible choice. Wood is a renewable resource and with proper management, its use can be sustainable.",
     exoticFacadeTextAndImageMainText6:
       "Thermal insulation properties: Wood has excellent thermal insulation properties, which helps maintain optimal indoor temperature and reduce heating and cooling costs.",
     exoticFacadeImageAndTextTitle: "PRESTIGE AND EXCLUSIVITY",
@@ -358,14 +358,14 @@ const translations = {
     exoticFacadeImageAndTextMainText8:
       "Prestige and exclusivity: The use of exotic wood is often associated with luxury and high status, adding prestige to the building and increasing its value.",
     exoticFacadeImageAndTextMainText9:
-      "Using facades made of exotic wood can be an excellent choice for those who value quality, durability, and aesthetic appeal in their buildings.",
-    exoticFillingMatherialFunction: "EXOTIC FILLING",
+      "Using facades made of exotic wood can be an excellent choice for those who value quality, durability and aesthetic appeal in their buildings.",
+    exoticFillingMatherialFunction: "EXOTIC CLADDING",
     exoticFillingTextAndImageMainText1:
       "Exotic wood cladding has several important advantages, making it a popular choice for exterior and interior decoration of buildings. Here are the main benefits:",
     exoticFillingTextAndImageMainText2:
       "High aesthetic value: Exotic wood has a unique texture and color that adds uniqueness and charm to any interior or exterior. It gives a luxurious and sophisticated look to the room or building.",
     exoticFillingTextAndImageMainText3:
-      "Resistance to external influences: Many types of exotic wood, such as teak, ipe, cumaru, and others, are known for their resistance to moisture, UV radiation, and various pests. This ensures the durability of the material and its ability to maintain its properties for a long time.",
+      "Resistance to external influences: Many types of exotic wood, such as teak, ipe, cumaru and others, are known for their resistance to moisture, UV radiation and various pests. This ensures the durability of the material and its ability to maintain its properties for a long time.",
     exoticFillingTextAndImageMainText4:
       "Strength and reliability: Exotic wood has high density and hardness, making it resistant to mechanical damage and wear. It can withstand heavy loads and maintain its structure even under intensive use conditions.",
     exoticFillingTextAndImageMainText5:
@@ -373,7 +373,7 @@ const translations = {
     exoticFillingTextAndImageMainText6:
       "Thermal insulation properties: Exotic wood has good thermal insulation properties, helping to maintain optimal indoor temperature. This can contribute to reducing heating and cooling costs.",
     exoticFillingTextAndImageMainText7:
-      "Environmental friendliness: Using exotic wood from certified plantations or from secondary use can be an environmentally responsible choice. Wood is a renewable resource, and with proper management, its use can be sustainable.",
+      "Environmental friendliness: Using exotic wood from certified plantations or from secondary use can be an environmentally responsible choice. Wood is a renewable resource and with proper management, its use can be sustainable.",
     exoticFillingTextAndImageReverseTitle: "RELIABILITY AND AESTHETICS",
     exoticFillingTextAndImageMainText8:
       "Acoustic properties: Wood has the ability to absorb sound, making it an excellent material for creating comfortable acoustic conditions in a room.",
@@ -386,7 +386,7 @@ const translations = {
       "Terraces made of exotic wood are becoming increasingly popular due to the numerous advantages they offer.",
     exoticTerraceTextAndImageMainText2: "Here are some of them:",
     exoticTerraceTextAndImageMainText3:
-      "Durability: Exotic wood is generally very resistant to rot, pests, and weather conditions, making it an excellent choice for outdoor structures.",
+      "Durability: Exotic wood is generally very resistant to rot, pests and weather conditions, making it an excellent choice for outdoor structures.",
     exoticTerraceTextAndImageMainText4:
       "Aesthetics: Exotic wood terraces have a natural, attractive appearance with unique textures and colors, adding elegance and charm.",
     exoticTerraceTextAndImageMainText5:
@@ -404,7 +404,7 @@ const translations = {
       "Interior and exterior elements made of thermowood have many advantages, making them increasingly popular in construction and design.",
     exclusivePiecesTextAndImageMainText2: "Advantages for interiors:",
     exclusivePiecesTextAndImageMainText3:
-      "Dimensional stability: Thermowood hardly changes its dimensions with humidity changes, which is important for the stability of interior elements such as floors, walls, and furniture.",
+      "Dimensional stability: Thermowood hardly changes its dimensions with humidity changes, which is important for the stability of interior elements such as floors, walls and furniture.",
     exclusivePiecesTextAndImageMainText4:
       "Aesthetics: Thermowood has a beautiful, uniform color and texture that adds warmth and naturalness to the interior.",
     exclusivePiecesTextAndImageMainText5:
@@ -413,7 +413,7 @@ const translations = {
       "Durability: Interior elements made of thermowood last longer and require less maintenance due to their resistance to wear and mechanical damage.",
     exclusivePiecesTextAndImageMainText7: "Advantages for exteriors:",
     exclusivePiecesTextAndImageMainText8:
-      "Weather resistance: Thermowood withstands moisture, UV radiation, and temperature fluctuations well, making it ideal for outdoor applications such as facades, terraces, and gazebos.",
+      "Weather resistance: Thermowood withstands moisture, UV radiation and temperature fluctuations well, making it ideal for outdoor applications such as facades, terraces and gazebos.",
     exclusivePiecesTextAndImageMainText9:
       "Pest protection: Due to thermal treatment, the wood becomes less attractive to insects and fungi, which extends the lifespan of exterior structures.",
     exclusivePiecesTextAndImageTitle: "BEAUTY AND ECO-FRIENDLINESS",
@@ -449,11 +449,11 @@ const translations = {
       "Thermowood is a very flexible material that can be used for various rooms and interior elements.",
     thermoWoodInteriorTextAndImageMainText11: "Here are some of them:",
     thermoWoodInteriorTextAndImageMainText12:
-      "Flooring: Wood is well-suited for flooring as it is strong, wear-resistant, and has a beautiful appearance.",
+      "Flooring: Wood is well-suited for flooring as it is strong, wear-resistant and has a beautiful appearance.",
     thermoWoodInteriorTextAndImageMainText13:
       "Walls and finishes: Thermowood can be used for wall cladding, creating decorative panels, or exposed beams, adding warmth and naturalness to the interior.",
     thermoWoodInteriorTextAndImageMainText14:
-      "Doors: Wood is often used for making interior doors due to its strength, durability, and beautiful appearance.",
+      "Doors: Wood is often used for making interior doors due to its strength, durability and beautiful appearance.",
     thermoWoodInteriorTextAndImageMainText15:
       "Decorative elements: Thermowood can be used for making decorative elements such as mirror frames, candle holders, vases, or other accessories that add style and coziness to the interior.",
     viroby: "Products",
