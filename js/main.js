@@ -415,6 +415,7 @@ const translations = {
       "Doors: Wood is often used for making interior doors due to its strength, durability, and beautiful appearance.",
     thermoWoodInteriorTextAndImageMainText15:
       "Decorative elements: Thermowood can be used for making decorative elements such as mirror frames, candle holders, vases, or other accessories that add style and coziness to the interior.",
+    viroby: "Products",
   },
   UA: {
     termoDerevo: "ТЕРМОДЕРЕВО",
@@ -695,6 +696,7 @@ const translations = {
       "Двері: Дерево часто використовується для виготовлення внутрішніх дверей, оскільки воно володіє міцністю, довговічністю і красивим зовнішнім виглядом.",
     thermoWoodInteriorTextAndImageMainText15:
       "Декоративні елементи: термодерево може бути використане для виготовлення декоративних елементів, таких як рами для дзеркал, свічники, вази чи інші аксесуари, що додадуть інтер'єру стильності та затишку.",
+    viroby: "Вироби",
   },
 };
 
