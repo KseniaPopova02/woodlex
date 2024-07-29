@@ -384,7 +384,7 @@ const translations = {
       "Ease of maintenance: Exterior elements made of thermowood require less maintenance and repair, reducing upkeep costs.",
     exclusivePiecesTextAndImageMainText13:
       "Due to these advantages, thermowood becomes an optimal choice for creating durable and beautiful interiors and exteriors that harmoniously blend with nature and meet modern environmental standards.",
-    termoDerevo: "THERMO WOOD",
+    termoDerevo: "Thermo wood",
     thermoWoodInteriorMatherialFunction: "THERMO WOOD INTERIORS",
     thermoWoodInteriorTextAndImageMainText1:
       "When it comes to thermowood for interiors, the advantages can include:",
@@ -418,7 +418,7 @@ const translations = {
     viroby: "Products",
   },
   UA: {
-    termoDerevo: "ТЕРМОДЕРЕВО",
+    termoDerevo: "Термодерево",
     headerText: "СТУДІЯ ДИЗАЙНУ ІНТЕР'ЄРУ ТА ЕКСТЕР'ЄРУ",
     orderButton: "Замовити",
     submitButton: "ЗАПИСАТИСЬ НА КОНСУЛЬТАЦІЮ",
