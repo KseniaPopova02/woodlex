@@ -258,7 +258,7 @@ const translations = {
     thermoAshTerraceTextAndImageMainText9:
       "Also worth noting is resistance to pests and fungi: Thermo-ash has natural properties that make it less attractive to pests and fungi compared to other types of wood. This avoids problems with rot and damage from pests.",
     thermoAshTerraceTextAndImageMainText10:
-      "Thermo-ash terraces have low water absorption, so they do not require enhanced edge treatment or other measures to protect against moisture and wear. They can also be laid on both flat and uneven surfaces. This allows for the creation of a unique terrace design that suits your needs and local conditions.",
+      "Thermo-ash terraces have low water absorption, so they do not require enhanced edge treatment or other measures to protect against moisture and wear. This allows for the creation of a unique terrace design that suits your needs and local conditions.",
     thermoPineTerraceMatherialFunction: "THERMO-PINE TERRACE",
     thermoPineTerraceTextAndImageMainText1:
       "Thermo-pine wood is excellent for use on terraces due to its advantages.",
@@ -279,8 +279,6 @@ const translations = {
       "CORRECT INSTALLATION - SYNONYM OF LONGEVITY",
     thermoPineTerraceTextAndImageMainText9:
       "Thermo-pine wood is known for its high durability and longevity, making it a popular choice for terraces. The lifespan of a thermo-pine terrace depends on several factors, such as the quality of the wood itself, the quality of installation and maintenance.",
-    thermoPineTerraceTextAndImageMainText10:
-      "Typically, a thermo-pine terrace can last from 15 to 25 years or even longer with proper care.",
     thermoPineTerraceTextAndImageMainText11:
       "It is recommended to regularly renew the protective layer on the terrace by oiling or painting, regularly clean it from dirt and inspect the terrace for damage. This will help keep the wood in good condition and extend its lifespan.",
     thermoPineTerraceTextAndImageMainText12:
@@ -559,7 +557,7 @@ const translations = {
     thermoAshTerraceTextAndImageMainText9:
       "Також слід відмітити стійкість до шкідників і грибків: Термоясен має природні властивості, які роблять його менш привабливим для шкідників та грибків порівняно з іншими видами деревини. Це дозволяє уникнути проблем з гниллю та пошкодженнями через шкідників.",
     thermoAshTerraceTextAndImageMainText10:
-      "Тераси з термоясену мають низьке водопоглинання, тому вони не потребують підвищеної обробки країв або інших заходів для захисту від вологи та зносу. А також вони можуть бути укладені як на рівних, так і на нерівних поверхнях. Це дозволяє створити унікальний дизайн тераси, відповідний вашим потребам і умовам місцевості.",
+      "Тераси з термоясену мають низьке водопоглинання, тому вони не потребують підвищеної обробки країв або інших заходів для захисту від вологи та зносу. Це дозволяє створити унікальний дизайн тераси, відповідний вашим потребам і умовам місцевості.",
     thermoPineTerraceMatherialFunction: "ТЕРАСА З ТЕРМОСОСНИ",
     thermoPineTerraceTextAndImageMainText1:
       "Термососна деревина чудово підходить для використання на терасі через свої переваги.",
@@ -577,11 +575,10 @@ const translations = {
     thermoPineTerraceTextAndImageMainText8:
       "Можливість обробки: Термососна деревина легко обробляється і піддається фарбуванню або оліюванню, що дозволяє вам створити індивідуальний дизайн для вашої тераси.",
     thermoPineTerraceTextAndImageReverseTitle:
-      "ПРАВИЛЬНИЙ ДОГЛЯД - СИНОНІМ ДОВГОВІЧНОСТІ",
+      "ПРАВИЛЬНИЙ МОНТАЖ - СИНОНІМ ДОВГОВІЧНОСТІ",
     thermoPineTerraceTextAndImageMainText9:
-      "Термососна деревина славиться своєю високою стійкістю і довговічністю, що робить її популярним вибором для терас. Тривалість служби тераси з термососни залежить від кількох факторів, таких як якість самого дерева, якість установки та обслуговування.",
-    thermoPineTerraceTextAndImageMainText10:
-      "Зазвичай термососна тераса може прослужити від 15 до 25 років або навіть більше при належному догляді.",
+      "Термососна славиться своєю високою стійкістю і довговічністю, що робить її популярним вибором для терас. Тривалість служби тераси з термососни залежить від кількох факторів, таких як якість самого дерева, якість установки та обслуговування.",
+
     thermoPineTerraceTextAndImageMainText11:
       "Рекомендується регулярно обновлювати захисний шар на терасі шляхом оліювання або фарбування, регулярно чистити від бруду та оглядати терасу на рахунок пошкоджень. Це допоможе зберегти дерево в хорошому стані і збільшить його термін служби.",
     thermoPineTerraceTextAndImageMainText12:
