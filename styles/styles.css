@@ -792,7 +792,7 @@ img {
 }
 
 .exotic-terrace {
-  background: url("../assets/images/exotic-terrace-bg.png");
+  background: url("../assets/images/exotic-terrace-bg.png") center center;
   background-size: cover;
   display: flex;
   justify-content: space-between;
@@ -863,7 +863,7 @@ img {
 .two-images {
   display: flex;
   justify-content: space-between;
-  margin-top: 75px;
+  margin-top: 10px;
   gap: 30px;
 }
 
