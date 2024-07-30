@@ -182,6 +182,7 @@ const translations = {
     proNas3:
       "We use only natural materials. We understand that walking barefoot on your terrace is more enjoyable when you step on a natural surface. The temperature of the board, the aroma, the external aesthetics - all these elements create impressions and mood. And we are responsible for that.",
     proces: "PROCESS",
+    NashiProecti: "OUR PROJECTS",
     kakMiRobimo: "THIS IS HOW WE DO IT",
     NashiPartneri: "OUR PARTNERS",
     ZKimPrazuemo: "WHO WE WORK WITH",
@@ -462,6 +463,7 @@ const translations = {
     orderButton: "Замовити",
     submitButton: "ЗАПИСАТИСЬ НА КОНСУЛЬТАЦІЮ",
     main: "ГОЛОВНА",
+    NashiProecti: "НАШІ ПРОЄКТИ",
     projects: "ПРОЄКТИ",
     terasi: "ТЕРАСИ",
     termososna: "Термососна",
