@@ -155,6 +155,15 @@ window.onclick = function (event) {
   }
 };
 
+const metaTranslations = {
+  EN: {
+    description: "Terraces and facades made of natural, premium wood",
+  },
+  UA: {
+    description: "Тераси та фасади із натуральної, преміальної дошки",
+  },
+};
+
 const translations = {
   EN: {
     headerText: "INTERIOR AND EXTERIOR DESIGN STUDIO",
@@ -746,6 +755,14 @@ function changeLanguage(lang) {
     return;
   }
 
+  // Update meta tags
+  const metaDescription = document.querySelector('meta[name="description"]');
+  const title = document.querySelector("title");
+
+  if (metaTranslations[lang]) {
+    metaDescription.setAttribute("content", metaTranslations[lang].description);
+    title.innerText = metaTranslations[lang].title;
+  }
   document.querySelectorAll("[data-lang]").forEach((element) => {
     const key = element.getAttribute("data-lang");
 
